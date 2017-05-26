@@ -1,42 +1,5 @@
 [
   {
-    "result": "cavalry_sabre",
-    "type": "recipe",
-    "category": "CC_WEAPON",
-    "subcategory": "CSC_WEAPON_CUTTING",
-    "skill_used": "fabrication",
-    "difficulty": 8,
-    "time": 420000,
-    "book_learn": [ [ "textbook_weapwest", 7 ] ],
-    "using": [ [ "forging_standard", 2 ], [ "steel_standard", 2 ] ],
-    "qualities": [
-      { "id": "HAMMER", "level": 3 },
-      { "id": "CHISEL", "level": 3 }
-    ],
-    "tools": [
-      [ [ "tongs", -1 ] ],
-      [ [ "anvil", -1 ] ],
-      [ [ "swage", -1 ] ]
-    ],
-    "components": [
-      [ [ "2x4", 1 ], [ "stick", 2 ] ],
-      [ [ "fur", 2 ], [ "leather", 2 ] ]
-    ]
-  },
-  {
-    "result": "breeches",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_LEGS",
-    "skill_used": "tailor",
-    "difficulty": 3,
-    "time": 40000,
-    "book_learn": [ [ "textbook_tailor", 2 ], [ "tailor_portfolio", 2 ] ],
-    "using": [ [ "filament", 20 ] ],
-    "qualities": [ { "id": "SEW", "level": 1 } ],
-    "components": [ [ [ "rag", 7 ] ] ]
-  },
-  {
     "result": "helmet_szyszak",
     "type": "recipe",
     "category": "CC_ARMOR",

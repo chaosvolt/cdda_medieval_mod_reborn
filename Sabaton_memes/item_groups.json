@@ -1,16 +1,8 @@
 [
   {
-    "id": "art",
-    "type": "item_group",
-    "items": [
-      [ "cavalry_sabre", 2 ]
-    ]
-  },
-  {
     "id": "medieval",
     "type": "item_group",
     "items": [
-      [ "cavalry_sabre", 3 ],
       [ "helmet_szyszak", 1 ],
       [ "wings_ornamental", 1 ]
     ]
@@ -19,24 +11,7 @@
     "id": "pawn",
     "type": "item_group",
     "items": [
-      [ "cavalry_sabre", 1 ],
       [ "helmet_szyszak", 1 ]
-    ]
-  },
-  {
-    "id": "antique_rare",
-    "type": "item_group",
-    "items": [
-      [ "cavalry_sabre", 2 ],
-      [ "cavalry_sabre_fake", 4 ]
-    ]
-  },
-  {
-    "id": "museum_melee",
-    "type": "item_group",
-    "items": [
-      [ "cavalry_sabre", 2 ],
-      [ "cavalry_sabre_fake", 4 ]
     ]
   },
   {
@@ -48,20 +23,9 @@
     ]
   },
   {
-    "id": "dresser",
-    "type": "item_group",
-    "items": [ [ "breeches", 5 ] ]
-  },
-  {
-    "id": "suits",
-    "type": "item_group",
-    "items": [ [ "breeches", 10 ] ]
-  },
-  {
     "id": "allclothes",
     "type": "item_group",
     "items": [
-      [ "breeches", 10 ],
       [ "wings_ornamental", 1 ]
     ]
   }

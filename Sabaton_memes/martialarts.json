@@ -1,9 +1,0 @@
-[
-  {
-    "id": "style_fencing",
-    "copy-from": "style_fencing",
-    "type": "martial_art",
-    "name": "Fencing",
-    "extend": { "weapons": ["cavalry_sabre"] }
-  }
-]
