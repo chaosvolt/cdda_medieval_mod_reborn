@@ -86,7 +86,9 @@
                     "gloves_leather",
                     "helmet_szyszak",
                     "wings_ornamental",
-                    "waterskin"
+                    "backpack",
+                    "waterskin",
+                    "spear_steel"
                 ],
                 "entries": [
                     { "item": "cavalry_sabre", "container-item": "scabbard" }
