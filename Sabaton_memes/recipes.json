@@ -6,7 +6,7 @@
     "subcategory": "CSC_ARMOR_HEAD",
     "skill_used": "fabrication",
     "difficulty": 7,
-    "time": 540000,
+    "time": "540 m",
     "book_learn": [ [ "textbook_armwest", 6 ] ],
     "using": [ [ "forging_standard", 15 ], [ "steel_standard", 10 ] ],
     "qualities": [
@@ -28,7 +28,7 @@
     "skill_used": "tailor",
     "difficulty": 5,
     "skills_required": [ "fabrication", 5 ],
-    "time": 40000,
+    "time": "40 m",
     "book_learn": [ [ "tailor_portfolio", 4 ] ],
     "using": [ [ "filament", 30 ] ],
     "qualities": [
