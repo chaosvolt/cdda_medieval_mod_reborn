@@ -14,10 +14,10 @@
     "symbol": "[",
     "color": "brown",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 40,
-    "encumbrance": 12,
+    "coverage": 90,
+    "encumbrance": 15,
     "material_thickness": 2,
-    "techniques": [ "WBLOCK_1" ],
+    "techniques": [ "WBLOCK_2" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
   },
   {
@@ -35,8 +35,8 @@
     "symbol": "[",
     "color": "light_gray",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 70,
-    "encumbrance": 28,
+    "coverage": 100,
+    "encumbrance": 25,
     "material_thickness": 2,
     "techniques": [ "WBLOCK_3" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
@@ -56,10 +56,10 @@
     "symbol": "[",
     "color": "light_gray",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 40,
-    "encumbrance": 12,
+    "coverage": 90,
+    "encumbrance": 10,
     "material_thickness": 3,
-    "techniques": [ "WBLOCK_1" ],
+    "techniques": [ "WBLOCK_2" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
   },
   {
@@ -78,8 +78,8 @@
     "symbol": "[",
     "color": "light_gray",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 60,
-    "encumbrance": 24,
+    "coverage": 95,
+    "encumbrance": 20,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_3" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
@@ -98,10 +98,10 @@
     "symbol": "[",
     "color": "blue",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 45,
-    "encumbrance": 16,
+    "coverage": 90,
+    "encumbrance": 15,
     "material_thickness": 3,
-    "techniques": [ "WBLOCK_1" ],
+    "techniques": [ "WBLOCK_2" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
   },
   {
@@ -119,10 +119,10 @@
     "symbol": "[",
     "color": "yellow",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 50,
+    "coverage": 90,
     "encumbrance": 20,
     "material_thickness": 4,
-    "techniques": [ "WBLOCK_1" ],
+    "techniques": [ "WBLOCK_2" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
   },
   {
@@ -141,8 +141,8 @@
     "symbol": "[",
     "color": "red",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 70,
-    "encumbrance": 28,
+    "coverage": 100,
+    "encumbrance": 25,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_3" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
@@ -161,8 +161,8 @@
     "symbol": "[",
     "color": "dark_gray",
     "covers": [ "ARM_EITHER", "HAND_EITHER" ],
-    "coverage": 30,
-    "encumbrance": 8,
+    "coverage": 80,
+    "encumbrance": 10,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_2" ],
     "flags": [ "OVERSIZE", "STURDY", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
@@ -186,7 +186,7 @@
     "encumbrance": 30,
     "warmth": 10,
     "material_thickness": 4,
-    "techniques": [ "WBLOCK_1" ],
+    "techniques": [ "WBLOCK_2" ],
     "flags": [ "FANCY", "VARSIZE", "STURDY", "SUN_GLASSES" ]
   },
   {
