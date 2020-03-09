@@ -32,7 +32,7 @@
     "material": "steel",
     "symbol": "!",
     "color": "light_gray",
-    "techniques": [ "WBLOCK_2", "RAPID" ],
+    "techniques": [ "WBLOCK_2" ],
     "qualities": [ [ "CUT", 1 ], [ "BUTCHER", 8 ] ],
     "flags": [ "SHEATH_SWORD", "DURABLE_MELEE", "SPEAR" ]
   }
