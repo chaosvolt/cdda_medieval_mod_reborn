@@ -21,9 +21,10 @@
     "loudness": 200,
     "clip_size": 1,
     "reload": 200,
+    "blackpowder_tolerance": 128,
     "techniques": [ "WBLOCK_1", "PRECISE" ],
     "qualities": [ [ "COOK", 1 ] ],
-    "flags": [ "RELOAD_ONE", "SPEAR", "REACH_ATTACK" ],
+    "flags": [ "RELOAD_ONE", "SPEAR", "REACH_ATTACK", "NEEDS_NO_LUBE" ],
     "valid_mod_locations": [ [ "sling", 1 ] ]
   }
 ]
