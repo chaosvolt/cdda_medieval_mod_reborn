@@ -2,7 +2,6 @@
   {
     "result": "shield_wooden",
     "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
@@ -15,7 +14,6 @@
   {
     "result": "shield_wooden_large",
     "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
@@ -28,14 +26,12 @@
   {
     "result": "shield_hoplon",
     "type": "recipe",
-    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
     "difficulty": 5,
     "time": "60 m",
     "book_learn": [ [ "textbook_armwest", 4 ] ],
-    "proficiencies": [ { "proficiency": "prof_armorsmithing" }, { "proficiency": "prof_redsmithing" }, { "proficiency": "prof_carving" } ],
     "using": [ [ "forging_standard", 2 ], [ "bronzesmithing_tools", 1 ] ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "components": [ [ [ "scrap_bronze", 4 ] ], [ [ "2x4", 4 ] ], [ [ "fur", 3 ], [ "leather", 3 ] ] ]
@@ -43,14 +39,12 @@
   {
     "result": "shield_scutum",
     "type": "recipe",
-    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
     "difficulty": 5,
     "time": "70 m",
     "book_learn": [ [ "textbook_armwest", 4 ] ],
-    "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_blacksmithing" }, { "proficiency": "prof_carving" } ],
     "using": [ [ "forging_standard", 3 ], [ "steel_standard", 3 ] ],
     "qualities": [
       { "id": "ANVIL", "level": 3 },
@@ -64,7 +58,6 @@
   {
     "result": "shield_round",
     "type": "recipe",
-    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
@@ -72,7 +65,6 @@
     "time": "60 m",
     "book_learn": [ [ "textbook_armwest", 3 ] ],
     "using": [ [ "forging_standard", 2 ], [ "steel_standard", 2 ] ],
-    "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_blacksmithing" }, { "proficiency": "prof_carving" } ],
     "qualities": [
       { "id": "ANVIL", "level": 3 },
       { "id": "CUT", "level": 1 },
@@ -85,42 +77,36 @@
   {
     "result": "shield_heater",
     "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
     "difficulty": 5,
     "time": "45 m",
     "book_learn": [ [ "textbook_armwest", 4 ] ],
-    "proficiencies": [ { "proficiency": "prof_leatherworking_basic" }, { "proficiency": "prof_carving" } ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "components": [ [ [ "2x4", 4 ] ], [ [ "leather", 12 ], [ "tanned_hide", 2 ] ] ]
   },
   {
     "result": "shield_kite",
     "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
     "difficulty": 6,
     "time": "50 m",
     "book_learn": [ [ "textbook_armwest", 5 ] ],
-    "proficiencies": [ { "proficiency": "prof_leatherworking_basic" }, { "proficiency": "prof_carving" } ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
     "components": [ [ [ "2x4", 7 ] ], [ [ "leather", 18 ], [ "tanned_hide", 3 ] ] ]
   },
   {
     "result": "shield_buckler",
     "type": "recipe",
-    "activity_level": "BRISK_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
     "difficulty": 7,
     "time": "240 m",
     "book_learn": [ [ "textbook_armwest", 5 ] ],
-    "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_blacksmithing" } ],
     "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
     "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ] ]
@@ -128,19 +114,12 @@
   {
     "result": "helmet_szyszak",
     "type": "recipe",
-    "activity_level": "BRISK_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_HEAD",
     "skill_used": "fabrication",
     "difficulty": 7,
     "time": "540 m",
     "book_learn": [ [ "textbook_armwest", 6 ] ],
-    "proficiencies": [
-      { "proficiency": "prof_metalworking" },
-      { "proficiency": "prof_blacksmithing" },
-      { "proficiency": "prof_leatherworking_basic" },
-      { "proficiency": "prof_armorsmithing" }
-    ],
     "using": [ [ "forging_standard", 15 ], [ "steel_standard", 10 ] ],
     "qualities": [ { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "anvil", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
@@ -149,7 +128,6 @@
   {
     "result": "wings_ornamental",
     "type": "recipe",
-    "activity_level": "LIGHT_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "tailor",
@@ -158,10 +136,9 @@
     "time": "40 m",
     "book_learn": [ [ "tailor_portfolio", 4 ] ],
     "using": [ [ "filament", 30 ] ],
-    "proficiencies": [ { "proficiency": "prof_carving" } ],
     "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SEW", "level": 1 } ],
     "components": [
-      [ [ "2x4", 4 ] ],
+      [ [ "2x4", 4 ], [ "stick", 4 ] ],
       [ [ "nail", 10 ] ],
       [ [ "feather", 30 ] ]
     ]
