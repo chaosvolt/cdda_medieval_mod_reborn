@@ -13,13 +13,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "brown",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 90,
-    "encumbrance": 15,
     "material_thickness": 2,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 15, "coverage": 90, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_wooden_large",
@@ -35,13 +33,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "light_gray",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 100,
-    "encumbrance": 25,
     "material_thickness": 2,
     "techniques": [ "WBLOCK_3" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 25, "coverage": 100, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_heater",
@@ -57,13 +53,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "light_gray",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 90,
-    "encumbrance": 10,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 10, "coverage": 90, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_kite",
@@ -80,13 +74,11 @@
     "material": [ "wood" ],
     "symbol": "[",
     "color": "light_gray",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 95,
-    "encumbrance": 20,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_3" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 20, "coverage": 95, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_round",
@@ -101,13 +93,11 @@
     "material": [ "wood", "iron" ],
     "symbol": "[",
     "color": "blue",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 90,
-    "encumbrance": 15,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 15, "coverage": 90, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_hoplon",
@@ -123,13 +113,11 @@
     "material": [ "wood", "bronze" ],
     "symbol": "[",
     "color": "yellow",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 90,
-    "encumbrance": 20,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 20, "coverage": 90, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_scutum",
@@ -145,13 +133,11 @@
     "material": [ "wood", "iron" ],
     "symbol": "[",
     "color": "red",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 100,
-    "encumbrance": 25,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_3" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 25, "coverage": 100, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "shield_buckler",
@@ -166,13 +152,11 @@
     "material": [ "steel" ],
     "symbol": "[",
     "color": "dark_gray",
-    "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ],
     "sided": true,
-    "coverage": 80,
-    "encumbrance": 10,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "STURDY", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "STURDY", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 10, "coverage": 80, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "helmet_szyszak",
@@ -187,13 +171,11 @@
     "material": [ "steel", "leather" ],
     "symbol": "[",
     "color": "light_gray",
-    "covers": [ "head", "eyes" ],
-    "coverage": 80,
-    "encumbrance": 30,
     "warmth": 10,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "FANCY", "VARSIZE", "STURDY", "SUN_GLASSES" ]
+    "flags": [ "FANCY", "VARSIZE", "STURDY", "SUN_GLASSES" ],
+    "armor": [ { "encumbrance": 30, "coverage": 80, "covers": [ "head", "eyes" ] } ]
   },
   {
     "id": "wings_ornamental",
@@ -206,12 +188,10 @@
     "material": [ "wood", "cotton" ],
     "symbol": "[",
     "color": "white",
-    "covers": [ "torso" ],
-    "coverage": 20,
-    "encumbrance": 10,
     "warmth": 5,
     "material_thickness": 2,
-    "flags": [ "WAIST", "SUPER_FANCY", "BLOCK_WHILE_WORN" ]
+    "flags": [ "WAIST", "SUPER_FANCY", "BLOCK_WHILE_WORN" ],
+    "armor": [ { "encumbrance": 10, "coverage": 20, "covers": [ "head", "torso" ] } ]
   },
   {
     "id": "gambeson",
@@ -235,12 +215,10 @@
     "symbol": "[",
     "looks_like": "armor_samurai",
     "color": "dark_gray",
-    "covers": [ "torso", "leg_l", "leg_r", "arm_l", "arm_r", "hand_l", "hand_r" ],
-    "coverage": 85,
-    "encumbrance": 15,
     "warmth": 25,
     "material_thickness": 4,
-    "flags": [ "VARSIZE", "STURDY", "OUTER" ]
+    "flags": [ "VARSIZE", "STURDY", "OUTER" ],
+    "armor": [ { "encumbrance": 15, "coverage": 85, "covers": [ "torso", "leg_l", "leg_r", "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {
     "id": "sabatons_plate",
@@ -258,12 +236,10 @@
     "symbol": "[",
     "looks_like": "boots_plate",
     "color": "light_gray",
-    "covers": [ "feet" ],
-    "coverage": 90,
-    "encumbrance": 25,
     "warmth": 5,
     "material_thickness": 4,
-    "flags": [ "VARSIZE", "STURDY", "OUTER" ]
+    "flags": [ "VARSIZE", "STURDY", "OUTER" ],
+    "armor": [ { "encumbrance": 25, "coverage": 90, "covers": [ "foot_l", "hand_r" ] } ]
   },
   {
     "id": "demigloves_plate",
@@ -281,13 +257,11 @@
     "symbol": "[",
     "looks_like": "gloves_plate",
     "color": "light_gray",
-    "covers": [ "hands" ],
-    "coverage": 75,
-    "encumbrance": 15,
     "warmth": 15,
     "material_thickness": 4,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS" ]
+    "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS" ],
+    "armor": [ { "encumbrance": 15, "coverage": 75, "covers": [ "hand_l", "hand_r" ] } ]
   },
   {
     "id": "helmet_closehelm",
@@ -304,9 +278,6 @@
     "symbol": "[",
     "looks_like": "helmet_plate",
     "color": "light_gray",
-    "covers": [ "head", "eyes", "mouth" ],
-    "coverage": 100,
-    "encumbrance": 35,
     "warmth": 10,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_1" ],
@@ -316,7 +287,8 @@
       "type": "transform",
       "target": "helmet_closehelm_raised",
       "msg": "You lift the visor of your helmet."
-    }
+    },
+    "armor": [ { "encumbrance": 35, "coverage": 100, "covers": [ "head", "eyes", "mouth" ] } ]
   },
   {
     "id": "helmet_closehelm_raised",
@@ -333,9 +305,6 @@
     "symbol": "[",
     "looks_like": "helmet_plate",
     "color": "light_gray",
-    "covers": [ "head" ],
-    "coverage": 100,
-    "encumbrance": 35,
     "warmth": 10,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_1" ],
@@ -345,7 +314,8 @@
       "type": "transform",
       "target": "helmet_closehelm",
       "msg": "You lower the visor of your helmet back down over your face."
-    }
+    },
+    "armor": [ { "encumbrance": 35, "coverage": 100, "covers": [ "head" ] } ]
   },
   {
     "id": "helmet_kettle",
@@ -362,12 +332,10 @@
     "symbol": "[",
     "looks_like": "helmet_nasal",
     "color": "light_gray",
-    "covers": [ "head" ],
-    "coverage": 85,
-    "encumbrance": 10,
     "warmth": 10,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_1" ],
-    "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ]
+    "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ],
+    "armor": [ { "encumbrance": 10, "coverage": 85, "covers": [ "head" ] } ]
   }
 ]
