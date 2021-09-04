@@ -8,9 +8,13 @@
     "skill_used": "fabrication",
     "difficulty": 2,
     "skills_required": [ "gun", 1 ],
-    "time": "1 m",
-    "book_learn": [ [ "textbook_armschina", 2 ] ],
-    "components": [ [ [ "gunpowder", 50 ], [ "chem_black_powder", 50 ] ], [ [ "paper", 2 ], [ "aluminum_foil", 2 ] ] ]
+    "time": "30 s",
+    "autolearn": true,
+    "book_learn": [ [ "textbook_armschina", 1 ] ],
+    "components": [
+      [ [ "gunpowder", 24 ], [ "chem_black_powder", 36 ], [ "chem_match_head_powder", 36 ] ],
+      [ [ "paper", 2 ], [ "aluminum_foil", 2 ] ]
+    ]
   },
   {
     "result": "lance_charge_shot",
@@ -21,19 +25,12 @@
     "skill_used": "fabrication",
     "difficulty": 3,
     "skills_required": [ "gun", 1 ],
-    "time": "2 m",
-    "book_learn": [ [ "textbook_armschina", 3 ] ],
+    "time": "45 s",
+    "autolearn": true,
+    "book_learn": [ [ "textbook_armschina", 2 ] ],
     "components": [
-      [ [ "gunpowder", 50 ], [ "chem_black_powder", 50 ] ],
-      [
-        [ "lead", 50 ],
-        [ "gold_small", 50 ],
-        [ "silver_small", 50 ],
-        [ "tin", 50 ],
-        [ "bismuth", 50 ],
-        [ "solder_wire", 50 ],
-        [ "bearing", 5 ]
-      ],
+      [ [ "gunpowder", 24 ], [ "chem_black_powder", 36 ], [ "chem_match_head_powder", 36 ] ],
+      [ [ "bb", 36 ], [ "pebble", 24 ], [ "pebble_clay", 24 ], [ "marble", 24 ], [ "bearing", 24 ] ],
       [ [ "paper", 2 ], [ "aluminum_foil", 2 ] ]
     ]
   }
