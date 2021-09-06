@@ -239,7 +239,7 @@
     "warmth": 5,
     "material_thickness": 4,
     "flags": [ "VARSIZE", "STURDY", "OUTER" ],
-    "armor": [ { "encumbrance": 25, "coverage": 90, "covers": [ "foot_l", "hand_r" ] } ]
+    "armor": [ { "encumbrance": 25, "coverage": 90, "covers": [ "foot_l", "foot_r" ] } ]
   },
   {
     "id": "demigloves_plate",
