@@ -343,7 +343,7 @@
     "coverage": 85,
     "encumbrance": 10,
     "warmth": 10,
-    "material_thickness": 3,
+    "material_thickness": 4,
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ]
   }

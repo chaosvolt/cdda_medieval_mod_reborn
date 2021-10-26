@@ -333,7 +333,7 @@
     "looks_like": "helmet_nasal",
     "color": "light_gray",
     "warmth": 10,
-    "material_thickness": 3,
+    "material_thickness": 4,
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ],
     "armor": [ { "encumbrance": 10, "coverage": 85, "covers": [ "head" ] } ]
