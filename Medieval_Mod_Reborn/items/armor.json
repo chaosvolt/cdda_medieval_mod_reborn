@@ -194,13 +194,6 @@
     "armor": [ { "encumbrance": 10, "coverage": 20, "covers": [ "head", "torso" ], "specifically_covers": [ "torso_waist" ] } ]
   },
   {
-    "id": "gambeson",
-    "copy-from": "gambeson",
-    "type": "ARMOR",
-    "name": { "str": "gambeson" },
-    "material_thickness": 7
-  },
-  {
     "id": "armor_samurai_tosei",
     "type": "ARMOR",
     "category": "armor",
