@@ -124,7 +124,7 @@
     "type": "ARMOR",
     "name": { "str": "scutum", "str_pl": "scuta" },
     "category": "armor",
-    "description": "A rectangular shield from ancient Rome, made of wood and iron.  Perfect for fighting in formation, but not ideal for facing zombies alone.",
+    "description": "A rectangular shield from ancient Rome, made of wood and iron.  Perfect for fighting in formation, but not ideal for facing zombies alone.  The grip gives enough space to carry a javelin or two with it.",
     "weight": "4535 g",
     "volume": "5500 ml",
     "price": 125000,
@@ -137,6 +137,27 @@
     "material_thickness": 4,
     "techniques": [ "WBLOCK_3" ],
     "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "pocket_data": [
+      {
+        "pocket_type": "CONTAINER",
+        "min_item_volume": "250 ml",
+        "max_contains_volume": "1250 ml",
+        "max_contains_weight": "2 kg",
+        "moves": 50,
+        "flag_restriction": [ "JAVELIN" ],
+        "max_item_length": "150 cm"
+      },
+      {
+        "pocket_type": "CONTAINER",
+        "min_item_volume": "250 ml",
+        "max_contains_volume": "1250 ml",
+        "max_contains_weight": "2 kg",
+        "moves": 50,
+        "flag_restriction": [ "JAVELIN" ],
+        "max_item_length": "150 cm"
+      }
+    ],
+    "use_action": { "type": "holster", "holster_prompt": "Stash javelins", "holster_msg": "You stash your %s." },
     "armor": [ { "encumbrance": 25, "coverage": 100, "covers": [ "arm_l", "arm_r", "hand_l", "hand_r" ] } ]
   },
   {

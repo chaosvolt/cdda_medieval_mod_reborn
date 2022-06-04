@@ -123,7 +123,7 @@
     "id": "shield_scutum",
     "type": "ARMOR",
     "name": { "str": "scutum", "str_pl": "scuta" },
-    "description": "A rectangular shield from ancient Rome, made of wood and iron.  Perfect for fighting in formation, but not ideal for facing zombies alone.",
+    "description": "A rectangular shield from ancient Rome, made of wood and iron.  Perfect for fighting in formation, but not ideal for facing zombies alone.  The grip gives enough space to carry a javelin or two with it.",
     "weight": "4535 g",
     "volume": "5500 ml",
     "price": 125000,
@@ -137,7 +137,16 @@
     "encumbrance": 25,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_3" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
+    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ],
+    "use_action": {
+      "type": "holster",
+      "holster_prompt": "Stash javelins",
+      "holster_msg": "You stash your %s.",
+      "multi": 2,
+      "max_volume": "1250 ml",
+      "draw_cost": 25,
+      "flags": [ "JAVELIN" ]
+    }
   },
   {
     "id": "shield_buckler",
