@@ -358,8 +358,8 @@
           "armor_plate",
           "boots_larmor",
           "sabatons_plate",
-          "helmet_closehelm",
-          "demigloves_plate",
+          "qt_helm_close",
+          "armor_qt_lightplate",
           "backpack",
           "waterskin",
           "horse_tack"
