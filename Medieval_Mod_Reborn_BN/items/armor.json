@@ -253,7 +253,7 @@
     "encumbrance": 25,
     "warmth": 5,
     "material_thickness": 4,
-    "flags": [ "VARSIZE", "STURDY", "OUTER" ]
+    "flags": [ "VARSIZE", "STURDY", "BELTED" ]
   },
   {
     "id": "demigloves_plate",
