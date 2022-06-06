@@ -252,7 +252,7 @@
     "color": "light_gray",
     "warmth": 5,
     "material_thickness": 4,
-    "flags": [ "VARSIZE", "STURDY", "OUTER" ],
+    "flags": [ "VARSIZE", "STURDY", "BELTED" ],
     "armor": [ { "encumbrance": 25, "coverage": 90, "covers": [ "foot_l", "foot_r" ] } ]
   },
   {

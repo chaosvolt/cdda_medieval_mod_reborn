@@ -42,5 +42,16 @@
     "initial_ma_styles": [ "style_fencing" ],
     "purifiable": false,
     "profession": true
+  },
+  {
+    "type": "mutation",
+    "id": "PROF_CHEVALIER",
+    "name": { "str": "Chevalier" },
+    "points": 0,
+    "description": "You have been trained since a young age in the ways of late medieval warfare.  You start with your choice of Fior De Battalgia or Medieval Swordsmanship.",
+    "valid": false,
+    "initial_ma_styles": [ "style_medievalpole", "style_swordsmanship" ],
+    "purifiable": false,
+    "profession": true
   }
 ]
