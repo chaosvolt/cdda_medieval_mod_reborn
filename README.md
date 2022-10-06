@@ -4,4 +4,8 @@ Originally nothing more than a small meme mod adding onto the original Medieval 
 
 Since I'd never taken the opportunity to add any substantial humorous content to the addon, with any references to other media fitting within the historical focus of the original mod, it was an easy task to convert this into a full replacement for my original Cataclysm DDA mod. More content, and rebalancing of content that has not been adequately updated since up to or before my submission of said content, is planned for the future.
 
-If you are using Dark Days Ahead, place the included Medieval_Mod_Reborn folder in your data/mods folder. If you are using the Bright Nights fork, use the Medieval_Mod_Reborn_BN folder instead. In either case it is recommended that, if updating the mod, to delete the older version of the folder rather than just dumping the new one onto the old one.
+This version is for the 0.1 Stable release of Cataclysm: Bright Nights. To use this, copy over the Medieval_Mod_Reborn_BN folder into data/mods.
+
+If you are using experimental Bright Nights, it is recommended you update from the main page using the "download zip" option within the green "code" button, and copy the Medieval_Mod_Reborn_BN folder into data/mods folder.
+
+Likewise, if you are using experimental DDA, use the Medieval_Mod_Reborn folder from the master branch.
