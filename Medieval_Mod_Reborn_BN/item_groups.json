@@ -78,8 +78,6 @@
     "id": "museum_armor",
     "type": "item_group",
     "items": [
-      [ "shield_wooden", 10 ],
-      [ "shield_wooden_large", 5 ],
       [ "shield_hoplon", 10 ],
       [ "shield_scutum", 10 ],
       [ "shield_round", 10 ],
@@ -121,11 +119,6 @@
     "items": [ [ "wings_ornamental", 1 ] ]
   },
   {
-    "id": "survivorzed_extra",
-    "type": "item_group",
-    "items": [ [ "shield_wooden", 10 ], [ "shield_wooden_large", 5 ] ]
-  },
-  {
     "id": "soa_plate",
     "type": "item_group",
     "subtype": "collection",
@@ -135,12 +128,6 @@
     "id": "soa_shields_plate",
     "type": "item_group",
     "items": [ [ "shield_heater", 25 ], [ "shield_buckler", 75 ] ]
-  },
-  {
-    "id": "soa_mail",
-    "type": "item_group",
-    "subtype": "collection",
-    "items": [ { "group": "soa_shields_mail", "prob": 50 } ]
   },
   {
     "id": "soa_shields_mail",
