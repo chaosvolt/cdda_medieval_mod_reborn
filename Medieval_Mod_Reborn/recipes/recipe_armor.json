@@ -9,8 +9,12 @@
     "difficulty": 2,
     "time": "30 m",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 2 } ],
-    "components": [ [ [ "nail", 8 ] ], [ [ "2x4", 4 ] ], [ [ "rag", 1 ], [ "fur", 1 ], [ "leather", 1 ] ] ]
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 1 } ],
+    "components": [
+      [ [ "nail", 8 ] ],
+      [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
+      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+    ]
   },
   {
     "result": "shield_wooden_large",
@@ -22,8 +26,12 @@
     "difficulty": 3,
     "time": "50 m",
     "autolearn": true,
-    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 2 } ],
-    "components": [ [ [ "nail", 16 ] ], [ [ "2x4", 8 ] ], [ [ "rag", 2 ], [ "fur", 2 ], [ "leather", 2 ] ] ]
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 1 } ],
+    "components": [
+      [ [ "nail", 16 ] ],
+      [ [ "2x4", 8 ], [ "wood_panel", 2 ] ],
+      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+    ]
   },
   {
     "result": "shield_hoplon",
@@ -38,7 +46,11 @@
     "proficiencies": [ { "proficiency": "prof_armorsmithing" }, { "proficiency": "prof_redsmithing" }, { "proficiency": "prof_carving" } ],
     "using": [ [ "forging_standard", 2 ], [ "bronzesmithing_tools", 1 ] ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "scrap_bronze", 4 ] ], [ [ "2x4", 4 ] ], [ [ "rag", 3 ], [ "fur", 3 ], [ "leather", 3 ] ] ]
+    "components": [
+      [ [ "scrap_bronze", 4 ] ],
+      [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
+      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+    ]
   },
   {
     "result": "shield_scutum",
@@ -47,9 +59,9 @@
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
-    "difficulty": 5,
+    "difficulty": 4,
     "time": "70 m",
-    "book_learn": [ [ "textbook_armwest", 4 ] ],
+    "book_learn": [ [ "textbook_armwest", 3 ] ],
     "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_blacksmithing" }, { "proficiency": "prof_carving" } ],
     "using": [ [ "forging_standard", 3 ], [ "steel_standard", 3 ] ],
     "qualities": [
@@ -59,7 +71,7 @@
       { "id": "CHISEL", "level": 3 }
     ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ] ],
-    "components": [ [ [ "2x4", 8 ] ], [ [ "rag", 3 ], [ "fur", 3 ], [ "leather", 3 ] ] ]
+    "components": [ [ [ "2x4", 8 ], [ "wood_panel", 2 ] ], [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ] ]
   },
   {
     "result": "shield_round",
@@ -71,6 +83,7 @@
     "difficulty": 4,
     "time": "60 m",
     "book_learn": [ [ "textbook_armwest", 3 ] ],
+    "autolearn": true,
     "using": [ [ "forging_standard", 2 ], [ "steel_standard", 2 ] ],
     "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_blacksmithing" }, { "proficiency": "prof_carving" } ],
     "qualities": [
@@ -80,7 +93,7 @@
       { "id": "CHISEL", "level": 3 }
     ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ] ],
-    "components": [ [ [ "2x4", 4 ] ], [ [ "rag", 3 ], [ "fur", 3 ], [ "leather", 3 ] ] ]
+    "components": [ [ [ "2x4", 4 ], [ "wood_panel", 1 ] ], [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ] ]
   },
   {
     "result": "shield_heater",
@@ -89,13 +102,18 @@
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
-    "difficulty": 5,
+    "difficulty": 4,
     "time": "45 m",
-    "book_learn": [ [ "textbook_armwest", 4 ] ],
+    "book_learn": [ [ "textbook_armwest", 3 ] ],
+    "autolearn": true,
     "proficiencies": [ { "proficiency": "prof_leatherworking_basic" }, { "proficiency": "prof_carving" } ],
     "using": [ [ "adhesive", 1 ] ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "2x4", 4 ] ], [ [ "rag", 12 ], [ "fur", 12 ], [ "tanned_pelt", 2 ], [ "leather", 12 ], [ "tanned_hide", 2 ] ] ]
+    "components": [
+      [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
+      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ],
+      [ [ "fur", 10 ], [ "tanned_pelt", 2 ], [ "leather", 10 ], [ "tanned_hide", 2 ] ]
+    ]
   },
   {
     "result": "shield_kite",
@@ -104,13 +122,18 @@
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
-    "difficulty": 6,
+    "difficulty": 5,
     "time": "50 m",
-    "book_learn": [ [ "textbook_armwest", 5 ] ],
+    "book_learn": [ [ "textbook_armwest", 4 ] ],
+    "autolearn": true,
     "proficiencies": [ { "proficiency": "prof_leatherworking_basic" }, { "proficiency": "prof_carving" } ],
     "using": [ [ "adhesive", 2 ] ],
     "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [ [ [ "2x4", 7 ] ], [ [ "rag", 18 ], [ "fur", 18 ], [ "tanned_pelt", 3 ], [ "leather", 18 ], [ "tanned_hide", 3 ] ] ]
+    "components": [
+      [ [ "2x4", 8 ], [ "wood_panel", 2 ] ],
+      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ],
+      [ [ "fur", 15 ], [ "tanned_pelt", 3 ], [ "leather", 15 ], [ "tanned_hide", 3 ] ]
+    ]
   },
   {
     "result": "shield_buckler",
@@ -119,11 +142,12 @@
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
-    "difficulty": 7,
+    "difficulty": 5,
     "time": "240 m",
-    "book_learn": [ [ "textbook_armwest", 5 ] ],
+    "book_learn": [ [ "textbook_armwest", 4 ] ],
+    "autolearn": true,
     "proficiencies": [ { "proficiency": "prof_metalworking" }, { "proficiency": "prof_blacksmithing" } ],
-    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 2 ] ],
     "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "tongs", -1 ] ], [ [ "swage", -1 ] ] ]
   },
