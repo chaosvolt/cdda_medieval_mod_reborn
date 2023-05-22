@@ -7,10 +7,6 @@
       [ "lance_charge", 1 ],
       [ "lance_charge_shot", 1 ],
       [ "shield_hoplon", 1 ],
-      [ "shield_scutum", 1 ],
-      [ "shield_round", 3 ],
-      [ "shield_kite", 3 ],
-      [ "shield_heater", 5 ],
       [ "shield_buckler", 5 ],
       [ "sword_gladius", 3 ]
     ]
@@ -19,8 +15,6 @@
     "id": "medieval",
     "type": "item_group",
     "items": [
-      [ "shield_kite", 5 ],
-      [ "shield_heater", 10 ],
       [ "shield_buckler", 1 ],
       [ "helmet_szyszak", 1 ],
       [ "wings_ornamental", 1 ],
@@ -46,10 +40,6 @@
     "type": "item_group",
     "items": [
       [ "shield_hoplon", 1 ],
-      [ "shield_scutum", 1 ],
-      [ "shield_round", 3 ],
-      [ "shield_kite", 3 ],
-      [ "shield_heater", 5 ],
       [ "shield_buckler", 5 ],
       [ "helmet_szyszak", 1 ],
       [ "armor_samurai_tosei", 1 ],
@@ -79,10 +69,6 @@
     "type": "item_group",
     "items": [
       [ "shield_hoplon", 10 ],
-      [ "shield_scutum", 10 ],
-      [ "shield_round", 10 ],
-      [ "shield_kite", 10 ],
-      [ "shield_heater", 20 ],
       [ "shield_buckler", 25 ],
       [ "helmet_szyszak", 40 ],
       [ "wings_ornamental", 10 ],
@@ -119,19 +105,8 @@
     "items": [ [ "wings_ornamental", 1 ] ]
   },
   {
-    "id": "soa_plate",
-    "type": "item_group",
-    "subtype": "collection",
-    "items": [ { "group": "soa_shields_plate", "prob": 25 } ]
-  },
-  {
     "id": "soa_shields_plate",
     "type": "item_group",
-    "items": [ [ "shield_heater", 25 ], [ "shield_buckler", 75 ] ]
-  },
-  {
-    "id": "soa_shields_mail",
-    "type": "item_group",
-    "items": [ [ "shield_round", 30 ], [ "shield_kite", 30 ], [ "shield_heater", 40 ] ]
+    "items": [ [ "shield_buckler", 50 ] ]
   }
 ]

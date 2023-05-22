@@ -6,12 +6,6 @@
     "entries": [ { "item": "arrow_wood", "charges": 20 } ]
   },
   {
-    "type": "item_group",
-    "subtype": "collection",
-    "id": "scutum_javelin_medievalmod",
-    "entries": [ { "item": "javelin_iron" }, { "item": "javelin_iron" } ]
-  },
-  {
     "type": "profession",
     "ident": "brave_of_the_king",
     "name": "Brave of the King",
@@ -79,11 +73,20 @@
     ],
     "items": {
       "both": {
-        "items": [ "tunic", "leathersandals", "armor_lorica", "helmet_galea", "backpack", "shovel", "pot", "canteen_wood" ],
-        "entries": [
-          { "item": "sword_gladius", "container-item": "scabbard" },
-          { "item": "shield_scutum", "contents-group": "scutum_javelin_medievalmod" }
-        ]
+        "items": [
+          "tunic",
+          "leathersandals",
+          "armor_lorica",
+          "helmet_galea",
+          "backpack",
+          "shovel",
+          "pot",
+          "canteen_wood",
+          "shield_banded_large",
+          "javelin_iron",
+          "javelin_iron"
+        ],
+        "entries": [ { "item": "sword_gladius", "container-item": "scabbard" } ]
       },
       "male": [ "loincloth" ],
       "female": [ "loincloth", "bikini_top_leather" ]
@@ -113,7 +116,7 @@
           "boots_larmor",
           "helmet_nasal",
           "backpack",
-          "shield_round",
+          "shield_banded",
           "waterskin"
         ],
         "entries": [ { "item": "battleaxe", "custom-flags": [ "auto_wield" ] }, { "item": "knife_hunting", "container-item": "sheath" } ]
@@ -149,7 +152,7 @@
           "helmet_plate",
           "gloves_leather",
           "backpack",
-          "shield_heater",
+          "shield_leather",
           "waterskin"
         ],
         "entries": [ { "item": "arming_sword", "container-item": "scabbard" } ]
