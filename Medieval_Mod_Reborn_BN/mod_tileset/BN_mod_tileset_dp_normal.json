@@ -15,8 +15,8 @@
           { "id": [ "helmet_closehelm", "helmet_closehelm_raised" ], "fg": 6 },
           { "id": "overlay_worn_helmet_closehelm", "fg": 7 },
           { "id": "overlay_worn_helmet_closehelm_raised", "fg": 8 },
-          { "id": "shield_buckler", "fg": 9 },
-          { "id": [ "overlay_worn_shield_buckler", "overlay_wielded_shield_buckler" ], "fg": 10 },
+          { "id": "helmet_kettle", "fg": 9 },
+          { "id": "overlay_worn_helmet_kettle", "fg": 10 },
           { "id": "sword_gladius", "fg": 11 },
           { "id": "overlay_wielded_sword_gladius", "fg": 12 }
         ],
