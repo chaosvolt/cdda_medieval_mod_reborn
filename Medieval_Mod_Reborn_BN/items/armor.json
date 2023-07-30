@@ -60,13 +60,6 @@
     "flags": [ "WAIST", "SUPER_FANCY", "BLOCK_WHILE_WORN" ]
   },
   {
-    "id": "gambeson",
-    "copy-from": "gambeson",
-    "type": "ARMOR",
-    "name": { "str": "gambeson" },
-    "material_thickness": 7
-  },
-  {
     "id": "armor_samurai_tosei",
     "type": "ARMOR",
     "name": { "str_sp": "Tosei-gusoku" },
