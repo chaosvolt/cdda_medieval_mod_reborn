@@ -36,7 +36,12 @@
     "book_learn": [ [ "textbook_armschina", 1 ] ],
     "proficiencies": [ { "proficiency": "prof_gunsmithing_basic" }, { "proficiency": "prof_gunsmithing_improv" } ],
     "qualities": [ { "id": "HAMMER", "level": 2 } ],
-    "components": [ [ [ "qiang", 1 ] ], [ [ "pipe", 1 ] ], [ [ "scrap", 1 ] ], [ [ "duct_tape", 20 ], [ "cordage_short", 2, "LIST" ] ] ]
+    "components": [
+      [ [ "qiang", 1 ], [ "spear_steel", 1 ] ],
+      [ [ "pipe", 1 ] ],
+      [ [ "scrap", 1 ] ],
+      [ [ "duct_tape", 20 ], [ "cordage_short", 2, "LIST" ] ]
+    ]
   },
   {
     "result": "sword_gladius",

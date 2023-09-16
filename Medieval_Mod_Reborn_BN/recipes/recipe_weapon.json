@@ -32,7 +32,12 @@
     "autolearn": true,
     "book_learn": [ [ "textbook_armschina", 1 ] ],
     "qualities": [ { "id": "HAMMER", "level": 2 } ],
-    "components": [ [ [ "qiang", 1 ] ], [ [ "pipe", 1 ] ], [ [ "scrap", 1 ] ], [ [ "duct_tape", 20 ], [ "cordage_short", 2, "LIST" ] ] ]
+    "components": [
+      [ [ "qiang", 1 ], [ "spear_steel", 1 ] ],
+      [ [ "pipe", 1 ] ],
+      [ [ "scrap", 1 ] ],
+      [ [ "duct_tape", 20 ], [ "cordage_short", 2, "LIST" ] ]
+    ]
   },
   {
     "result": "sword_gladius",

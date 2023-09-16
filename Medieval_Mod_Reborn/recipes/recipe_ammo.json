@@ -26,8 +26,8 @@
     "autolearn": true,
     "book_learn": [ [ "textbook_armschina", 2 ] ],
     "components": [
-      [ [ "gunpowder", 12 ], [ "chem_black_powder", 18 ] ],
-      [ [ "bb", 36 ], [ "pebble", 24 ], [ "pebble_clay", 24 ], [ "marble", 24 ], [ "bearing", 24 ] ],
+      [ [ "gunpowder", 10 ], [ "chem_black_powder", 15 ] ],
+      [ [ "bb", 30 ], [ "pebble", 20 ], [ "pebble_clay", 20 ], [ "marble", 20 ], [ "bearing", 20 ], [ "copper", 20 ], [ "ammo_bullet", 20, "LIST" ] ],
       [ [ "paper", 1 ], [ "aluminum_foil", 1 ] ]
     ]
   }
