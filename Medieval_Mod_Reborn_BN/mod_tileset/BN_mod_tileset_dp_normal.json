@@ -18,7 +18,10 @@
           { "id": "helmet_kettle", "fg": 9 },
           { "id": "overlay_worn_helmet_kettle", "fg": 10 },
           { "id": "sword_gladius", "fg": 11 },
-          { "id": "overlay_wielded_sword_gladius", "fg": 12 }
+          { "id": "overlay_wielded_sword_gladius", "fg": 12 },
+          { "id": "fire_lance", "fg": 13 },
+          { "id": "fire_lance_crude", "fg": 14 },
+          { "id": "overlay_wielded_fire_lance_crude", "fg": 15 }
         ],
         "sprite_width": 32,
         "sprite_height": 32

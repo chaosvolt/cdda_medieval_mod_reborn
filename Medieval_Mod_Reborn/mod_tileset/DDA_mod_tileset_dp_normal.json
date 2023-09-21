@@ -25,7 +25,13 @@
           { "id": [ "armor_samurai_tosei", "overlay_wielded_armor_samurai_tosei" ], "fg": 16 },
           { "id": "overlay_worn_armor_samurai_tosei", "fg": 17 },
           { "id": "sword_gladius", "fg": 18 },
-          { "id": "overlay_wielded_sword_gladius", "fg": 19 }
+          { "id": "overlay_wielded_sword_gladius", "fg": 19 },
+
+
+          { "id": "fire_lance", "fg": 20 },
+          { "id": "fire_lance_crude", "fg": 21 },
+          { "id": "overlay_wielded_fire_lance_crude", "fg": 22 }
+
         ],
         "sprite_width": 32,
         "sprite_height": 32
