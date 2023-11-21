@@ -55,6 +55,7 @@
   {
     "result": "shield_leather",
     "type": "recipe",
+    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
@@ -68,6 +69,7 @@
   {
     "result": "shield_leather_large",
     "type": "recipe",
+    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
@@ -81,6 +83,7 @@
   {
     "result": "shield_banded",
     "type": "recipe",
+    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
@@ -94,6 +97,7 @@
   {
     "result": "shield_banded_large",
     "type": "recipe",
+    "activity_level": "MODERATE_EXERCISE",
     "category": "CC_ARMOR",
     "subcategory": "CSC_ARMOR_OTHER",
     "skill_used": "fabrication",
