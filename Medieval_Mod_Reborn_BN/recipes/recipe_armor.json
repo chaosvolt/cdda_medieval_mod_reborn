@@ -102,6 +102,7 @@
     "time": "9 h",
     "book_learn": [ [ "textbook_armwest", 6 ] ],
     "using": [ [ "blacksmithing_advanced", 48 ], [ "steel_standard", 12 ] ],
+    "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
     "components": [ [ [ "fur", 4 ], [ "leather", 4 ] ] ]
   },
   {
