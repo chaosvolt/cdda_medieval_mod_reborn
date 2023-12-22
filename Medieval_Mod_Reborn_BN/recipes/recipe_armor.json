@@ -13,7 +13,7 @@
     "components": [
       [ [ "scrap_bronze", 4 ] ],
       [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
-      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fabric_hides_proper", 2, "LIST" ] ]
     ]
   },
   {
@@ -27,7 +27,21 @@
     "book_learn": [ [ "textbook_armwest", 6 ] ],
     "using": [ [ "blacksmithing_intermediate", 15 ], [ "steel_standard", 10 ] ],
     "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
-    "components": [ [ [ "fur", 4 ], [ "leather", 4 ] ] ]
+    "components": [ [ [ "fabric_hides_proper", 4, "LIST" ] ] ]
+  },
+  {
+    "result": "helmet_szyszak_superalloy",
+    "//": "Superalloy armor recipes use alloy sheets equal to steel lumps used, difficulty 2 levels higher (maxing out at 10)",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "fabrication",
+    "difficulty": 9,
+    "time": "540 m",
+    "book_learn": [ [ "textbook_armwest", 8 ] ],
+    "using": [ [ "blacksmithing_intermediate", 15 ] ],
+    "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
+    "components": [ [ [ "alloy_sheet", 10 ] ], [ [ "fabric_hides_proper", 4, "LIST" ] ] ]
   },
   {
     "result": "wings_ornamental",
@@ -41,7 +55,7 @@
     "book_learn": [ [ "tailor_portfolio", 4 ] ],
     "using": [ [ "filament", 30 ] ],
     "qualities": [ { "id": "CUT", "level": 1 }, { "id": "HAMMER", "level": 1 }, { "id": "SEW", "level": 1 } ],
-    "components": [ [ [ "2x4", 4 ], [ "stick", 4 ] ], [ [ "nail", 10 ] ], [ [ "feather", 30 ] ] ]
+    "components": [ [ [ "wood_structural", 2, "LIST" ] ], [ [ "nail", 10 ] ], [ [ "feather", 30 ] ] ]
   },
   {
     "result": "armor_samurai_tosei",
@@ -53,7 +67,7 @@
     "time": "9 h 20 m",
     "book_learn": [ [ "textbook_armeast", 9 ] ],
     "using": [ [ "blacksmithing_advanced", 72 ], [ "steel_standard", 18 ] ],
-    "components": [ [ [ "fur", 28 ], [ "leather", 28 ] ], [ [ "rag", 10 ] ] ]
+    "components": [ [ [ "fabric_hides_proper", 28, "LIST" ] ], [ [ "rag", 10 ] ] ]
   },
   {
     "result": "armor_samurai_tosei",
@@ -66,7 +80,39 @@
     "time": "6 h 10 m",
     "book_learn": [ [ "textbook_armeast", 8 ] ],
     "using": [ [ "blacksmithing_advanced", 40 ], [ "steel_standard", 10 ] ],
-    "components": [ [ [ "cuirass_lightplate", 1 ] ], [ [ "fur", 22 ], [ "leather", 22 ] ], [ [ "rag", 10 ] ] ]
+    "components": [ [ [ "cuirass_lightplate", 1 ] ], [ [ "fabric_hides_proper", 22, "LIST" ] ], [ [ "rag", 10 ] ] ]
+  },
+  {
+    "result": "armor_samurai_tosei_superalloy",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "fabrication",
+    "difficulty": 10,
+    "time": "9 h 20 m",
+    "//": "Recipe difficulty capped at 10, booklearn still elevated as if it could go past 10",
+    "book_learn": [ [ "textbook_armeast", 10 ] ],
+    "using": [ [ "blacksmithing_advanced", 72 ] ],
+    "components": [ [ [ "alloy_sheet", 18 ] ], [ [ "fabric_hides_proper", 28, "LIST" ] ], [ [ "rag", 10 ] ] ]
+  },
+  {
+    "result": "armor_samurai_tosei_superalloy",
+    "type": "recipe",
+    "id_suffix": "from_cuirass",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_SUIT",
+    "skill_used": "fabrication",
+    "difficulty": 10,
+    "time": "6 h 10 m",
+    "//": "Recipe difficulty capped at 10, booklearn still elevated as if it could go past 10",
+    "book_learn": [ [ "textbook_armeast", 10 ] ],
+    "using": [ [ "blacksmithing_advanced", 40 ] ],
+    "components": [
+      [ [ "alloy_sheet", 10 ] ],
+      [ [ "cuirass_lightplate_superalloy", 1 ] ],
+      [ [ "fabric_hides_proper", 22, "LIST" ] ],
+      [ [ "rag", 10 ] ]
+    ]
   },
   {
     "result": "sabatons_plate",
@@ -78,7 +124,19 @@
     "time": "8 h",
     "book_learn": [ [ "textbook_armwest", 5 ] ],
     "using": [ [ "blacksmithing_advanced", 32 ], [ "steel_standard", 8 ] ],
-    "components": [ [ [ "fur", 12 ], [ "leather", 12 ] ] ]
+    "components": [ [ [ "fabric_hides_proper", 12, "LIST" ] ] ]
+  },
+  {
+    "result": "sabatons_plate_superalloy",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_FEET",
+    "skill_used": "fabrication",
+    "difficulty": 8,
+    "time": "8 h",
+    "book_learn": [ [ "textbook_armwest", 7 ] ],
+    "using": [ [ "blacksmithing_advanced", 32 ] ],
+    "components": [ [ [ "alloy_sheet", 8 ] ], [ [ "fabric_hides_proper", 12, "LIST" ] ] ]
   },
   {
     "result": "demigloves_plate",
@@ -90,7 +148,19 @@
     "time": "7 h",
     "book_learn": [ [ "textbook_armwest", 5 ] ],
     "using": [ [ "blacksmithing_advanced", 24 ], [ "steel_standard", 6 ] ],
-    "components": [ [ [ "fur", 5 ], [ "leather", 5 ] ] ]
+    "components": [ [ [ "fabric_hides_proper", 5, "LIST" ] ] ]
+  },
+  {
+    "result": "demigloves_plate_superalloy",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HANDS",
+    "skill_used": "fabrication",
+    "difficulty": 9,
+    "time": "7 h",
+    "book_learn": [ [ "textbook_armwest", 7 ] ],
+    "using": [ [ "blacksmithing_advanced", 24 ] ],
+    "components": [ [ [ "alloy_sheet", 6 ] ], [ [ "fabric_hides_proper", 5, "LIST" ] ] ]
   },
   {
     "result": "helmet_closehelm",
@@ -103,7 +173,20 @@
     "book_learn": [ [ "textbook_armwest", 6 ] ],
     "using": [ [ "blacksmithing_advanced", 48 ], [ "steel_standard", 12 ] ],
     "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
-    "components": [ [ [ "fur", 4 ], [ "leather", 4 ] ] ]
+    "components": [ [ [ "fabric_hides_proper", 4, "LIST" ] ] ]
+  },
+  {
+    "result": "helmet_closehelm_superalloy",
+    "type": "recipe",
+    "category": "CC_ARMOR",
+    "subcategory": "CSC_ARMOR_HEAD",
+    "skill_used": "fabrication",
+    "difficulty": 9,
+    "time": "9 h",
+    "book_learn": [ [ "textbook_armwest", 7 ] ],
+    "using": [ [ "blacksmithing_advanced", 48 ] ],
+    "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
+    "components": [ [ [ "alloy_sheet", 12 ] ], [ [ "fabric_hides_proper", 4, "LIST" ] ] ]
   },
   {
     "result": "helmet_kettle",
@@ -117,6 +200,6 @@
     "autolearn": true,
     "using": [ [ "blacksmithing_intermediate", 8 ], [ "steel_standard", 2 ] ],
     "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
-    "components": [ [ [ "fur", 2 ], [ "leather", 2 ] ] ]
+    "components": [ [ [ "fabric_hides_proper", 2, "LIST" ] ] ]
   }
 ]
