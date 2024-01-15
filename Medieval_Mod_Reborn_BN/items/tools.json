@@ -19,6 +19,7 @@
     "id": "sword_gladius",
     "type": "TOOL",
     "category": "weapons",
+    "weapon_category": [ "SHORT_SWORDS" ],
     "looks_like": "sword_forged",
     "name": { "str": "gladius", "str_pl": "gladii" },
     "description": "A thrusting sword adopted by Ancient Rome during the conquest of the Iberian Peninsula, the \"gladius hispaniensis\" supplanted the hasta as the most common weapon of the Roman Legions, until the shift towards the longer spatha during the later days of the Empire.",
