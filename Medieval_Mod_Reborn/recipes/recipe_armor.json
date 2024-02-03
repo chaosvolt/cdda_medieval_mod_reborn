@@ -13,7 +13,7 @@
     "components": [
       [ [ "nail", 8 ] ],
       [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
-      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+      [ [ "cotton_patchwork", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
     ]
   },
   {
@@ -30,7 +30,7 @@
     "components": [
       [ [ "nail", 16 ] ],
       [ [ "2x4", 8 ], [ "wood_panel", 2 ] ],
-      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+      [ [ "cotton_patchwork", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
     ]
   },
   {
@@ -49,7 +49,7 @@
     "components": [
       [ [ "scrap_bronze", 4 ] ],
       [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
-      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
+      [ [ "cotton_patchwork", 2 ], [ "felt_patch", 2 ], [ "fur", 2 ], [ "leather", 2 ] ]
     ]
   },
   {
@@ -177,7 +177,7 @@
     "using": [ [ "blacksmithing_standard", 72 ], [ "steel_standard", 18 ] ],
     "qualities": [ { "id": "CHISEL", "level": 3 } ],
     "tools": [ [ [ "swage", -1 ] ] ],
-    "components": [ [ [ "fur", 28 ], [ "tanned_pelt", 6 ], [ "leather", 28 ], [ "tanned_hide", 6 ] ], [ [ "rag", 10 ] ] ]
+    "components": [ [ [ "fur", 28 ], [ "tanned_pelt", 6 ], [ "leather", 28 ], [ "tanned_hide", 6 ] ], [ [ "cotton_patchwork", 10 ] ] ]
   },
   {
     "result": "armor_samurai_tosei",
@@ -202,7 +202,7 @@
     "components": [
       [ [ "cuirass_lightplate", 1 ] ],
       [ [ "fur", 22 ], [ "tanned_pelt", 5 ], [ "leather", 22 ], [ "tanned_hide", 5 ] ],
-      [ [ "rag", 10 ] ]
+      [ [ "cotton_patchwork", 10 ] ]
     ]
   },
   {
