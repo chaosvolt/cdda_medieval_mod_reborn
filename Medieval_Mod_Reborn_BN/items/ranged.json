@@ -26,7 +26,7 @@
     "blackpowder_tolerance": 128,
     "techniques": [ "WBLOCK_1" ],
     "qualities": [ [ "COOK", 1 ] ],
-    "flags": [ "DURABLE_MELEE", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "NEEDS_NO_LUBE", "PYROMANIAC_WEAPON" ],
+    "flags": [ "DURABLE_MELEE", "STAB", "SPEAR", "REACH_ATTACK", "NONCONDUCTIVE", "SHEATH_SPEAR", "NEEDS_NO_LUBE", "PYROMANIAC_WEAPON" ],
     "valid_mod_locations": [ [ "sling", 1 ] ]
   },
   {
