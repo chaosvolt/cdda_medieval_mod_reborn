@@ -158,7 +158,8 @@
     "sided": true,
     "material_thickness": 3,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "STURDY", "BELTED", "ONLY_ONE", "BLOCK_WHILE_WORN" ],
+    "max_worn": 1,
+    "flags": [ "OVERSIZE", "STURDY", "BELTED", "BLOCK_WHILE_WORN" ],
     "armor": [ { "encumbrance": 10, "coverage": 50, "covers": [ "arm_l", "arm_r" ] } ]
   },
   {
