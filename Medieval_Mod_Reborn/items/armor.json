@@ -179,7 +179,7 @@
     "warmth": 10,
     "material_thickness": 4,
     "techniques": [ "WBLOCK_2" ],
-    "flags": [ "FANCY", "VARSIZE", "STURDY", "SUN_GLASSES" ],
+    "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ],
     "armor": [ { "encumbrance": 30, "coverage": 80, "covers": [ "head", "eyes" ] } ]
   },
   {
@@ -196,7 +196,7 @@
     "color": "white",
     "warmth": 5,
     "material_thickness": 2,
-    "flags": [ "BELTED", "SUPER_FANCY", "BLOCK_WHILE_WORN" ],
+    "flags": [ "BELTED", "BLOCK_WHILE_WORN" ],
     "armor": [ { "encumbrance": 10, "coverage": 20, "covers": [ "head", "torso" ], "specifically_covers": [ "torso_waist" ] } ]
   },
   {
