@@ -109,12 +109,14 @@
       "both": {
         "items": [
           "gambeson",
+          "cap_arming",
           "socks_wool",
           "cloak_wool",
           "gauntlets_larmor",
           "boots_larmor",
           "helmet_nasal",
           "backpack",
+          "axe_ring",
           "shield_banded",
           "waterskin"
         ],
@@ -143,11 +145,12 @@
       "both": {
         "items": [
           "tunic",
+          "cap_arming",
           "chainmail_hauberk",
           "socks",
           "boots_larmor",
           "helmet_plate",
-          "gloves_leather",
+          "gauntlets_larmor",
           "backpack",
           "shield_leather",
           "waterskin",
@@ -319,7 +322,7 @@
           "tunic",
           "cuirass_lightplate",
           "armguard_lightplate",
-          "gloves_leather",
+          "gauntlets_larmor",
           "helmet_szyszak",
           "wings_ornamental",
           "backpack",
@@ -355,6 +358,7 @@
           "tights",
           "undershirt",
           "gambeson",
+          "cap_arming",
           "armor_lightplate",
           "boots_larmor",
           "sabatons_plate",

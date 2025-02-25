@@ -116,6 +116,7 @@
           "boots_larmor",
           "helmet_nasal",
           "backpack",
+          "axe_ring",
           "shield_banded",
           "waterskin"
         ],
@@ -150,7 +151,7 @@
           "socks",
           "boots_larmor",
           "helmet_plate",
-          "gloves_leather",
+          "gauntlets_larmor",
           "backpack",
           "shield_leather",
           "waterskin"
@@ -321,7 +322,7 @@
           "tunic",
           "cuirass_lightplate",
           "armguard_lightplate",
-          "gloves_leather",
+          "gauntlets_larmor",
           "helmet_szyszak",
           "wings_ornamental",
           "backpack",
