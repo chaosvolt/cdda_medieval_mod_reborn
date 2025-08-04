@@ -16,7 +16,7 @@
     "range": 3,
     "damage": { "damage_type": "heat", "amount": 40 },
     "recoil": 1200,
-    "effects": [ "COOKOFF", "RECYCLED", "IGNITE", "MUZZLE_SMOKE", "BLACKPOWDER" ]
+    "effects": [ "COOKOFF", "RECYCLED", "IGNITE", "MUZZLE_SMOKE", "BLACKPOWDER", "NO_PENETRATE_OBSTACLES" ]
   },
   {
     "id": "lance_charge_shot",
@@ -35,6 +35,6 @@
     "range": 4,
     "damage": { "damage_type": "heat", "amount": 50 },
     "recoil": 1600,
-    "effects": [ "COOKOFF", "SHOT", "RECYCLED", "IGNITE", "MUZZLE_SMOKE", "BLACKPOWDER" ]
+    "effects": [ "COOKOFF", "SHOT", "RECYCLED", "IGNITE", "MUZZLE_SMOKE", "BLACKPOWDER", "NO_PENETRATE_OBSTACLES" ]
   }
 ]
