@@ -1,0 +1,8 @@
+[
+  {
+    "copy-from": "lakesurface",
+    "type": "scenario",
+    "id": "lakesurface",
+    "extend": { "professions": [ "viking" ] }
+  }
+]
