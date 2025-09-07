@@ -140,7 +140,6 @@
       { "level": 3, "name": "melee" }
     ],
     "traits": [ "PROF_MAN_AT_ARMS" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "items": [
@@ -176,7 +175,6 @@
       { "level": 3, "name": "gun" },
       { "level": 1, "name": "melee" }
     ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "items": [
@@ -189,8 +187,7 @@
           "backpack",
           "waterskin",
           "fur_rollmat",
-          "pot",
-          "horse_tack"
+          "pot"
         ],
         "entries": [
           { "item": "recurbow", "custom-flags": [ "auto_wield" ] },
@@ -217,7 +214,6 @@
       { "level": 2, "name": "melee" }
     ],
     "traits": [ "PROF_SAMURAI" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "//": "All this work just to avoid layering oddities? Madness.",
     "items": {
       "male": {
@@ -230,8 +226,7 @@
           "tabi_dress",
           "bastsandals",
           "backpack",
-          "waterskin",
-          "horse_tack"
+          "waterskin"
         ],
         "entries": [ { "item": "katana", "container-item": "scabbard" }, { "item": "compositebow", "custom-flags": [ "auto_wield" ] } ]
       },
@@ -247,8 +242,7 @@
           "bastsandals",
           "backpack",
           "waterskin",
-          "compositebow",
-          "horse_tack"
+          "compositebow"
         ],
         "entries": [ { "item": "naginata", "custom-flags": [ "auto_wield" ] } ]
       },
@@ -311,7 +305,6 @@
       { "level": 2, "name": "survival" }
     ],
     "traits": [ "PROF_HUSARIA" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "ammo": 100,
@@ -326,8 +319,7 @@
           "helmet_szyszak",
           "wings_ornamental",
           "backpack",
-          "waterskin",
-          "horse_tack"
+          "waterskin"
         ],
         "entries": [
           { "item": "spear_steel", "custom-flags": [ "auto_wield" ] },
@@ -351,7 +343,6 @@
       { "level": 1, "name": "survival" }
     ],
     "traits": [ "PROF_CHEVALIER" ],
-    "pets": [ { "name": "mon_horse_courser", "amount": 1 } ],
     "items": {
       "both": {
         "items": [
@@ -365,8 +356,7 @@
           "qt_helm_close",
           "armor_qt_lightplate",
           "backpack",
-          "waterskin",
-          "horse_tack"
+          "waterskin"
         ],
         "entries": [
           { "item": "halberd", "custom-flags": [ "auto_wield" ] },
