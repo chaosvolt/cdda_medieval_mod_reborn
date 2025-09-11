@@ -71,7 +71,7 @@
     "encumbrance": 10,
     "warmth": 5,
     "material_thickness": 2,
-    "flags": [ "WAIST", "COMPACT", "SUPER_FANCY", "BLOCK_WHILE_WORN", "ALLOWS_WING" ]
+    "flags": [ "WAIST", "COMPACT", "SUPER_FANCY", "BLOCK_WHILE_WORN", "ALLOWS_WINGS" ]
   },
   {
     "id": "armor_samurai_tosei",
