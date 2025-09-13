@@ -48,7 +48,7 @@
           "legguard_bronze",
           "helmet_corinthian",
           "backpack",
-          "shield_hoplon",
+          "shield_bronze",
           "waterskin"
         ],
         "entries": [ { "item": "spear_dory", "custom-flags": [ "auto_wield" ] }, { "item": "sword_xiphos", "container-item": "baldric" } ]
