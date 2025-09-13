@@ -1,27 +1,5 @@
 [
   {
-    "id": "shield_hoplon",
-    "type": "ARMOR",
-    "name": { "str": "hoplon" },
-    "description": "A convex round shield from ancient Greece, made of wood reinforced with bronze.  Heavy but effective.",
-    "weight": "5 kg",
-    "volume": "4500 ml",
-    "price": "750 USD",
-    "price_postapoc": "20 USD",
-    "to_hit": -1,
-    "bashing": 11,
-    "material": [ "wood", "bronze" ],
-    "symbol": "[",
-    "color": "yellow",
-    "looks_like": "shield_wooden",
-    "covers": [ "arm_either", "hand_either" ],
-    "coverage": 100,
-    "encumbrance": 20,
-    "material_thickness": 4,
-    "techniques": [ "WBLOCK_2" ],
-    "flags": [ "OVERSIZE", "BELTED", "RESTRICT_HANDS", "BLOCK_WHILE_WORN" ]
-  },
-  {
     "id": "helmet_szyszak",
     "type": "ARMOR",
     "name": { "str": "szyszak", "str_pl": "szyszaki" },

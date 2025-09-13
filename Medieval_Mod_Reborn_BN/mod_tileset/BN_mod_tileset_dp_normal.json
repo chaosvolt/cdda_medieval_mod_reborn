@@ -6,10 +6,6 @@
       {
         "file": "mod_tileset/BN_mod_tileset_dp_normal.png",
         "tiles": [
-          { "id": "shield_hoplon", "fg": 0 },
-          { "id": [ "overlay_worn_shield_hoplon", "overlay_wielded_shield_hoplon" ], "fg": 1 },
-          { "id": "shield_buckler", "fg": 2 },
-          { "id": [ "overlay_worn_shield_buckler", "overlay_wielded_shield_buckler" ], "fg": 3 },
           { "id": [ "armor_samurai_tosei", "overlay_wielded_armor_samurai_tosei" ], "fg": 4 },
           { "id": "overlay_worn_armor_samurai_tosei", "fg": 5 },
           { "id": [ "helmet_closehelm", "helmet_closehelm_raised" ], "fg": 6 },

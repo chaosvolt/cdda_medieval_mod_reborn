@@ -1,22 +1,5 @@
 [
   {
-    "result": "shield_hoplon",
-    "type": "recipe",
-    "category": "CC_ARMOR",
-    "subcategory": "CSC_ARMOR_OTHER",
-    "skill_used": "fabrication",
-    "difficulty": 5,
-    "time": "60 m",
-    "book_learn": [ [ "textbook_armwest", 4 ] ],
-    "using": [ [ "forging_standard", 2 ], [ "bronzesmithing_tools", 1 ] ],
-    "qualities": [ { "id": "CUT", "level": 1 } ],
-    "components": [
-      [ [ "scrap_bronze", 4 ] ],
-      [ [ "2x4", 4 ], [ "wood_panel", 1 ] ],
-      [ [ "rag", 2 ], [ "felt_patch", 2 ], [ "fabric_hides_proper", 2, "LIST" ] ]
-    ]
-  },
-  {
     "result": "helmet_szyszak",
     "type": "recipe",
     "category": "CC_ARMOR",
