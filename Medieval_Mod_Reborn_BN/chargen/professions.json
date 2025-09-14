@@ -19,7 +19,7 @@
     ],
     "items": {
       "both": {
-        "items": [ "leathersandals", "helmet_larmor", "backpack", "shield_wooden_large", "waterskin" ],
+        "items": [ "sandal_armor", "helmet_larmor", "backpack", "shield_wooden_large", "waterskin" ],
         "entries": [ { "item": "khopesh", "custom-flags": [ "auto_wield" ] } ]
       },
       "male": [ "sleeveless_tunic" ],
@@ -43,8 +43,9 @@
       "both": {
         "items": [
           "tunic",
-          "leathersandals",
+          "sandal_armor",
           "armor_cuirass",
+          "skirt_armor",
           "legguard_bronze",
           "helmet_corinthian",
           "backpack",
@@ -75,8 +76,9 @@
       "both": {
         "items": [
           "tunic",
-          "leathersandals",
+          "sandal_armor",
           "armor_lorica",
+          "skirt_armor_leather",
           "helmet_galea",
           "backpack",
           "shovel",

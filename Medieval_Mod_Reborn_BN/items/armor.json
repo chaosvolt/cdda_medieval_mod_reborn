@@ -233,7 +233,7 @@
     "price": "240 USD",
     "price_postapoc": "32 USD",
     "bashing": 8,
-    "material": [ "iron", "leather" ],
+    "material": [ "steel", "leather" ],
     "symbol": "[",
     "looks_like": "helmet_nasal",
     "color": "light_gray",
@@ -244,5 +244,16 @@
     "material_thickness": 4,
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ]
+  },
+  {
+    "id": "helmet_kettle_superalloy",
+    "copy-from": "helmet_kettle",
+    "type": "ARMOR",
+    "name": { "str": "superalloy kettle hat" },
+    "description": "An medieval helmet resembling a broad-brimmed hat, remade in modern superalloy.  Still easy to produce if one can find the material.",
+    "material": [ "superalloy", "leather" ],
+    "color": "light_cyan",
+    "encumbrance": 5,
+    "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 }
   }
 ]
