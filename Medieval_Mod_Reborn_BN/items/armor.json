@@ -49,7 +49,7 @@
     "encumbrance": 10,
     "warmth": 5,
     "material_thickness": 2,
-    "flags": [ "WAIST", "COMPACT", "SUPER_FANCY", "BLOCK_WHILE_WORN" ]
+    "flags": [ "WAIST", "COMPACT", "SUPER_FANCY", "BLOCK_WHILE_WORN", "ALLOWS_WINGS" ]
   },
   {
     "id": "armor_samurai_tosei",
@@ -103,7 +103,7 @@
     "encumbrance": 25,
     "warmth": 5,
     "material_thickness": 4,
-    "flags": [ "VARSIZE", "STURDY", "BELTED" ]
+    "flags": [ "VARSIZE", "STURDY", "BELTED", "ALLOWS_CLAWS_FOOT" ]
   },
   {
     "id": "sabatons_plate_superalloy",
@@ -137,7 +137,7 @@
     "warmth": 15,
     "material_thickness": 4,
     "environmental_protection": 1,
-    "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS" ]
+    "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS", "ALLOWS_CLAWS" ]
   },
   {
     "id": "demigloves_plate_superalloy",
