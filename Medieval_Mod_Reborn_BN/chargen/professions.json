@@ -12,6 +12,7 @@
     "description": "Elite infantry of ancient Egypt and bodyguards of the Pharaoh.  While armor was uncommon due to desert conditions, such equipment did see increased usage during the New Kingdom period.",
     "points": 4,
     "skills": [
+      { "level": 2, "name": "swimming" },
       { "level": 2, "name": "survival" },
       { "level": 3, "name": "cutting" },
       { "level": 3, "name": "melee" },
@@ -33,6 +34,7 @@
     "description": "Heavy infantry of the ancient Greek city-states, before the shift towards the Macedonean phalanx.  Well-trained for combat in formation, but less effective when outmaneuvered or on broken ground.",
     "points": 5,
     "skills": [
+      { "level": 2, "name": "swimming" },
       { "level": 2, "name": "cutting" },
       { "level": 3, "name": "melee" },
       { "level": 3, "name": "stabbing" },
@@ -65,6 +67,7 @@
     "description": "Roman heavy infantry, after the military reforms that standardized the legion's equipment.  Trained to act in formation with javelin and sword, well-known for their field fortifications as well.",
     "points": 5,
     "skills": [
+      { "level": 2, "name": "swimming" },
       { "level": 1, "name": "fabrication" },
       { "level": 1, "name": "cooking" },
       { "level": 3, "name": "stabbing" },
@@ -135,6 +138,7 @@
     "description": "Early medieval heavy cavalry of various countries in Europe, whether noble-born or of common blood.  While knights traditionally were men-at-arms, not every man-at-arms was a knight.",
     "points": 7,
     "skills": [
+      { "level": 1, "name": "swimming" },
       { "level": 1, "name": "survival" },
       { "level": 1, "name": "firstaid" },
       { "level": 1, "name": "speech" },
@@ -169,6 +173,7 @@
     "description": "The famed light cavalry of the Mongol Empire.  Best known for their skill as mounted archers.",
     "points": 6,
     "skills": [
+      { "level": 1, "name": "swimming" },
       { "level": 2, "name": "survival" },
       { "level": 4, "name": "archery" },
       { "level": 1, "name": "cutting" },
@@ -205,6 +210,7 @@
     "description": "Warrior nobility of feudal Japan.  Known originally as masters of the horse and bow, they become famous for their swordsmanship in later eras.",
     "points": 7,
     "skills": [
+      { "level": 1, "name": "swimming" },
       { "level": 1, "name": "survival" },
       { "level": 1, "name": "firstaid" },
       { "level": 2, "name": "speech" },
@@ -259,6 +265,7 @@
     "description": "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units included musketeers in addition to cavalry, pikemen, and grendadiers.",
     "points": 4,
     "skills": [
+      { "level": 1, "name": "swimming" },
       { "level": 2, "name": "melee" },
       { "level": 1, "name": "stabbing" },
       { "level": 2, "name": "gun" },
@@ -299,6 +306,7 @@
     "description": "Heavy cavalry associated with the Polish-Lithanian Commonwealth during the 16th to 18th centuries.  Known for their ornate armor including decorative wings, making any arrival a fashionable one.",
     "points": 7,
     "skills": [
+      { "level": 1, "name": "swimming" },
       { "level": 3, "name": "melee" },
       { "level": 3, "name": "cutting" },
       { "level": 3, "name": "stabbing" },
@@ -336,6 +344,7 @@
     "description": "European heavy cavalry of the late medieval period, by which time plate armor had reached its battlefield peak.  The importance of knights as heavy cavalry would persist until professional armies became predominant in Europe.",
     "points": 8,
     "skills": [
+      { "level": 1, "name": "swimming" },
       { "level": 3, "name": "melee" },
       { "level": 3, "name": "cutting" },
       { "level": 2, "name": "stabbing" },
