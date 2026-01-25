@@ -9,7 +9,7 @@
     "price": "400 USD",
     "price_postapoc": "40 USD",
     "bashing": 10,
-    "material": [ "steel", "leather" ],
+    "material": [ "steel" ],
     "symbol": "[",
     "color": "light_gray",
     "covers": [ "head", "eyes" ],
@@ -26,10 +26,9 @@
     "type": "ARMOR",
     "name": { "str": "superalloy szyszak", "str_pl": "superalloy szyszaki" },
     "description": "A post-Renaissance type of lobster-tailed helmet with an ornate crest, short brim, and well-decorated protection for the eyes and nose.  Now made even more stylish through the use of cutting-edge superalloy.",
-    "material": [ "superalloy", "leather" ],
+    "material": [ "superalloy" ],
     "color": "light_cyan",
-    "//": "Superalloy armor uses 5 less encumbrance than base item",
-    "encumbrance": 25,
+    "relative": { "encumbrance": -5 },
     "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 }
   },
   {
@@ -61,13 +60,13 @@
     "price": "900 USD",
     "price_postapoc": "80 USD",
     "bashing": 8,
-    "material": [ "steel", "leather" ],
+    "material": [ "steel" ],
     "symbol": "[",
     "looks_like": "armor_samurai",
     "color": "dark_gray",
     "covers": [ "torso", "legs", "arms", "hands" ],
     "coverage": 85,
-    "encumbrance": 15,
+    "encumbrance": 20,
     "warmth": 25,
     "material_thickness": 4,
     "flags": [ "VARSIZE", "STURDY", "OUTER" ]
@@ -80,7 +79,7 @@
     "description": "Japanese samurai armor of the 16th Century with a futuristic makeover, incorporating then-modern designs and now-modern superalloy to provide greater protection.",
     "material": [ "superalloy", "leather" ],
     "color": "light_cyan",
-    "encumbrance": 10,
+    "relative": { "encumbrance": -5 },
     "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 }
   },
   {
@@ -100,9 +99,9 @@
     "color": "light_gray",
     "covers": [ "feet" ],
     "coverage": 90,
-    "encumbrance": 25,
+    "encumbrance": 20,
     "warmth": 5,
-    "material_thickness": 4,
+    "material_thickness": 5,
     "flags": [ "VARSIZE", "STURDY", "BELTED", "ALLOWS_CLAWS_FOOT" ]
   },
   {
@@ -113,7 +112,7 @@
     "description": "A Swedish power me- no, a component of medieval plate armor, covering the feet.  Made using lightweight superalloy.  Can be worn over other boots.",
     "material": [ "superalloy", "leather" ],
     "color": "light_cyan",
-    "encumbrance": 20,
+    "relative": { "encumbrance": -5 },
     "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 }
   },
   {
@@ -133,9 +132,9 @@
     "color": "light_gray",
     "covers": [ "hands" ],
     "coverage": 75,
-    "encumbrance": 15,
+    "encumbrance": 20,
     "warmth": 15,
-    "material_thickness": 4,
+    "material_thickness": 5,
     "environmental_protection": 1,
     "flags": [ "VARSIZE", "STURDY", "ALLOWS_NATURAL_ATTACKS", "ALLOWS_CLAWS" ]
   },
@@ -147,7 +146,7 @@
     "description": "A robust set of fingerless superalloy-plated gloves, offering less coverage in exchange for solid construction and greater dexterity.",
     "material": [ "superalloy", "leather" ],
     "color": "light_cyan",
-    "encumbrance": 10,
+    "relative": { "encumbrance": -5 },
     "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 }
   },
   {
@@ -160,7 +159,7 @@
     "price": "300 USD",
     "price_postapoc": "40 USD",
     "bashing": 10,
-    "material": [ "steel", "leather" ],
+    "material": [ "steel" ],
     "symbol": "[",
     "looks_like": "helmet_plate",
     "color": "light_gray",
@@ -200,7 +199,7 @@
     "description": "A late medieval helmet that completely encloses the head, with a visor and bevor that can be lifted up.  Remade in modern superalloy for lighter weight.  Activate it to lift the visor, exposing your face.",
     "material": [ "superalloy", "leather" ],
     "color": "light_cyan",
-    "encumbrance": 30,
+    "relative": { "encumbrance": -5 },
     "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 },
     "use_action": {
       "menu_text": "Raise",
@@ -233,7 +232,7 @@
     "price": "240 USD",
     "price_postapoc": "32 USD",
     "bashing": 8,
-    "material": [ "steel", "leather" ],
+    "material": [ "steel" ],
     "symbol": "[",
     "looks_like": "helmet_nasal",
     "color": "light_gray",
@@ -241,7 +240,7 @@
     "coverage": 85,
     "encumbrance": 10,
     "warmth": 10,
-    "material_thickness": 4,
+    "material_thickness": 3,
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES" ]
   },
@@ -251,9 +250,9 @@
     "type": "ARMOR",
     "name": { "str": "superalloy kettle hat" },
     "description": "An medieval helmet resembling a broad-brimmed hat, remade in modern superalloy.  Still easy to produce if one can find the material.",
-    "material": [ "superalloy", "leather" ],
+    "material": [ "superalloy" ],
     "color": "light_cyan",
-    "encumbrance": 5,
+    "relative": { "encumbrance": -5 },
     "proportional": { "weight": 0.6, "price": 2, "price_postapoc": 2 }
   }
 ]
