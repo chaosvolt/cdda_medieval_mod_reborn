@@ -196,7 +196,7 @@
           "pot"
         ],
         "entries": [
-          { "item": "recurbow", "custom-flags": [ "auto_wield" ] },
+          { "item": "compositebow", "custom-flags": [ "auto_wield" ] },
           { "item": "scimitar", "container-item": "scabbard" },
           { "item": "quiver", "contents-group": "quiver_bow_medievalmod" }
         ]
