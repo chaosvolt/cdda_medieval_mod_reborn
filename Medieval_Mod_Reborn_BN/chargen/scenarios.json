@@ -4,5 +4,24 @@
     "type": "scenario",
     "id": "lakesurface",
     "extend": { "professions": [ "viking" ] }
+  },
+  {
+    "copy-from": "medieval",
+    "type": "scenario",
+    "id": "medieval",
+    "extend": {
+      "professions": [
+        "brave_of_the_king",
+        "hoplite",
+        "legionary",
+        "viking",
+        "man_at_arms",
+        "horse_archer",
+        "samurai",
+        "karoliner",
+        "husaria",
+        "chevalier"
+      ]
+    }
   }
 ]
