@@ -1,0 +1,708 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Mod\n"
+"POT-Creation-Date: 2026-10-28 21:54+0300\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ./modinfo.json
+msgid "Medieval Mod Reborn"
+msgstr ""
+
+#. ~ Description for Medieval Mod Reborn
+#: ./modinfo.json
+msgid ""
+"The official replacement for and expansion of the Medieval and Historic "
+"Content mod, Bright Nights version."
+msgstr ""
+
+#: ./obsolete.json
+msgid "warhorse"
+msgid_plural "warhorses"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'warhorse'}
+#: ./obsolete.json
+msgid ""
+"A hooved grazing mammal with a mane of hair, this particular breed has been "
+"bred for a good mix of strength and speed, and trained to better tolerate "
+"the stress of combat."
+msgstr ""
+
+#: ./obsolete.json
+msgid "hoplon"
+msgid_plural "hoplons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'hoplon'}
+#: ./obsolete.json
+msgid ""
+"A convex round shield from ancient Greece, made of wood reinforced with "
+"bronze.  Heavy but effective."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Brave of the King"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Brave of the King"
+msgstr ""
+
+#. ~ Profession (male Brave of the King) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Elite infantry of ancient Egypt and bodyguards of the Pharaoh.  While armor "
+"was uncommon due to desert conditions, such equipment did see increased "
+"usage during the New Kingdom period."
+msgstr ""
+
+#. ~ Profession (female Brave of the King) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Elite infantry of ancient Egypt and bodyguards of the Pharaoh.  While armor "
+"was uncommon due to desert conditions, such equipment did see increased "
+"usage during the New Kingdom period."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Hoplite"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Hoplite"
+msgstr ""
+
+#. ~ Profession (male Hoplite) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Heavy infantry of the ancient Greek city-states, before the shift towards "
+"the Macedonean phalanx.  Well-trained for combat in formation, but less "
+"effective when outmaneuvered or on broken ground."
+msgstr ""
+
+#. ~ Profession (female Hoplite) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Heavy infantry of the ancient Greek city-states, before the shift towards "
+"the Macedonean phalanx.  Well-trained for combat in formation, but less "
+"effective when outmaneuvered or on broken ground."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Legionary"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Legionary"
+msgstr ""
+
+#. ~ Profession (male Legionary) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Roman heavy infantry, after the military reforms that standardized the "
+"legion's equipment.  Trained to act in formation with javelin and sword, "
+"well-known for their field fortifications as well."
+msgstr ""
+
+#. ~ Profession (female Legionary) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Roman heavy infantry, after the military reforms that standardized the "
+"legion's equipment.  Trained to act in formation with javelin and sword, "
+"well-known for their field fortifications as well."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Viking"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Viking"
+msgstr ""
+
+#. ~ Profession (male Viking) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"The infamous pirates of the early medieval period, raiders and explorers "
+"from various Scandinavian countries."
+msgstr ""
+
+#. ~ Profession (female Viking) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"The infamous pirates of the early medieval period, raiders and explorers "
+"from various Scandinavian countries."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Man-at-Arms"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Woman-at-Arms"
+msgstr ""
+
+#. ~ Profession (male Man-at-Arms) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Early medieval heavy cavalry of various countries in Europe, whether noble-"
+"born or of common blood.  While knights traditionally were men-at-arms, not "
+"every man-at-arms was a knight."
+msgstr ""
+
+#. ~ Profession (female Woman-at-Arms) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Early medieval heavy cavalry of various countries in Europe, whether noble-"
+"born or of common blood.  While knights traditionally were men-at-arms, not "
+"every man-at-arms was a knight."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Horse Archer"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Horse Archer"
+msgstr ""
+
+#. ~ Profession (male Horse Archer) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"The famed light cavalry of the Mongol Empire.  Best known for their skill as"
+" mounted archers."
+msgstr ""
+
+#. ~ Profession (female Horse Archer) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"The famed light cavalry of the Mongol Empire.  Best known for their skill as"
+" mounted archers."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Samurai"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Samurai"
+msgstr ""
+
+#. ~ Profession (male Samurai) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Warrior nobility of feudal Japan.  Known originally as masters of the horse "
+"and bow, they become famous for their swordsmanship in later eras."
+msgstr ""
+
+#. ~ Profession (female Samurai) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Warrior nobility of feudal Japan.  Known originally as masters of the horse "
+"and bow, they become famous for their swordsmanship in later eras."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Carolean"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Carolean"
+msgstr ""
+
+#. ~ Profession (male Carolean) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
+"included musketeers in addition to cavalry, pikemen, and grendadiers."
+msgstr ""
+
+#. ~ Profession (female Carolean) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
+"included musketeers in addition to cavalry, pikemen, and grendadiers."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Winged Hussar"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Winged Hussar"
+msgstr ""
+
+#. ~ Profession (male Winged Hussar) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+"16th to 18th centuries.  Known for their ornate armor including decorative "
+"wings, making any arrival a fashionable one."
+msgstr ""
+
+#. ~ Profession (female Winged Hussar) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+"16th to 18th centuries.  Known for their ornate armor including decorative "
+"wings, making any arrival a fashionable one."
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_male"
+msgid "Chevalier"
+msgstr ""
+
+#: ./chargen/professions.json
+msgctxt "profession_female"
+msgid "Chevalière"
+msgstr ""
+
+#. ~ Profession (male Chevalier) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_male"
+msgid ""
+"European heavy cavalry of the late medieval period, by which time plate "
+"armor had reached its battlefield peak.  The importance of knights as heavy "
+"cavalry would persist until professional armies became predominant in "
+"Europe."
+msgstr ""
+
+#. ~ Profession (female Chevalière) description
+#: ./chargen/professions.json
+msgctxt "prof_desc_female"
+msgid ""
+"European heavy cavalry of the late medieval period, by which time plate "
+"armor had reached its battlefield peak.  The importance of knights as heavy "
+"cavalry would persist until professional armies became predominant in "
+"Europe."
+msgstr ""
+
+#: ./chargen/traits.json
+msgid "Hoplite"
+msgstr ""
+
+#. ~ Description for {'str': 'Hoplite'}
+#: ./chargen/traits.json
+msgid ""
+"You have been trained since a young age in the warfare of ancient Greece.  "
+"You start with Pankration."
+msgstr ""
+
+#: ./chargen/traits.json
+msgid "Man-At-Arms"
+msgstr ""
+
+#. ~ Description for {'str': 'Man-At-Arms'}
+#: ./chargen/traits.json
+msgid ""
+"You have been trained since a young age in the warfare of early medieval "
+"Europe.  You start with Medieval Swordsmanship."
+msgstr ""
+
+#: ./chargen/traits.json
+msgid "Samurai"
+msgstr ""
+
+#. ~ Description for {'str': 'Samurai'}
+#: ./chargen/traits.json
+msgid ""
+"You have been trained since a young age in the warfare of fuedal Japan.  You"
+" start with your choice of Niten Ichi-Ryu or Sōjutsu."
+msgstr ""
+
+#: ./chargen/traits.json
+msgid "Hussar"
+msgstr ""
+
+#. ~ Description for {'str': 'Hussar'}
+#: ./chargen/traits.json
+msgid ""
+"You have been trained since a young age in the warfare of early modern "
+"Europe.  You start with Fencing."
+msgstr ""
+
+#: ./chargen/traits.json
+msgid "Chevalier"
+msgstr ""
+
+#. ~ Description for {'str': 'Chevalier'}
+#: ./chargen/traits.json
+msgid ""
+"You have been trained since a young age in the ways of late medieval "
+"warfare.  You start with your choice of Fior De Battalgia or Medieval "
+"Swordsmanship."
+msgstr ""
+
+#: ./items/ammo.json ./items/ammo_types.json
+msgid "fire lance charge"
+msgid_plural "fire lance charges"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fire lance charge'}
+#: ./items/ammo.json
+msgid ""
+"Little more than an incendiary charge of gunpowder for a basic firearm.  "
+"Despite the minimal range, it packs a punch."
+msgstr ""
+
+#: ./items/ammo.json
+msgid "fire lance shot"
+msgid_plural "fire lance shots"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'fire lance shot'}
+#: ./items/ammo.json
+msgid ""
+"Little more than an incendiary charge of gunpowder for a basic firearm, with"
+" small pellets as shot.  Despite the minimal range, it packs a punch."
+msgstr ""
+
+#: ./items/armor.json
+msgid "szyszak"
+msgid_plural "szyszaki"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'szyszak', 'str_pl': 'szyszaki'}
+#: ./items/armor.json
+msgid ""
+"A post-Renaissance type of lobster-tailed helmet with an ornate crest, short"
+" brim, and well-decorated protection for the eyes and nose."
+msgstr ""
+
+#: ./items/armor.json
+msgid "superalloy szyszak"
+msgid_plural "superalloy szyszaki"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superalloy szyszak', 'str_pl': 'superalloy
+#. szyszaki'}
+#: ./items/armor.json
+msgid ""
+"A post-Renaissance type of lobster-tailed helmet with an ornate crest, short"
+" brim, and well-decorated protection for the eyes and nose.  Now made even "
+"more stylish through the use of cutting-edge superalloy."
+msgstr ""
+
+#: ./items/armor.json
+msgid "ornamental wings"
+msgid_plural "ornamental wings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'ornamental wings', 'str_pl': 'ornamental wings'}
+#: ./items/armor.json
+msgid ""
+"A wooden frame richly decorated with feathers, with harness securing them at"
+" the waist.  Looks badass and provides minor protection, but not very "
+"practical overall."
+msgstr ""
+
+#: ./items/armor.json
+msgid "Tosei-gusoku"
+msgid_plural "Tosei-gusoku"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Tosei-gusoku'}
+#: ./items/armor.json
+msgid ""
+"Japanese samurai armor of the 16th Century, incorporating then-modern "
+"designs to provide greater protection."
+msgstr ""
+
+#: ./items/armor.json
+msgid "superalloy Tosei-gusoku"
+msgid_plural "superalloy Tosei-gusoku"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'superalloy Tosei-gusoku'}
+#: ./items/armor.json
+msgid ""
+"Japanese samurai armor of the 16th Century with a futuristic makeover, "
+"incorporating then-modern designs and now-modern superalloy to provide "
+"greater protection."
+msgstr ""
+
+#: ./items/armor.json
+msgid "pair of sabatons"
+msgid_plural "pairs of sabatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of sabatons', 'str_pl': 'pairs of
+#. sabatons'}
+#: ./items/armor.json
+msgid ""
+"A Swedish power me- no, a component of medieval plate armor, covering the "
+"feet.  Can be worn over other boots."
+msgstr ""
+
+#: ./items/armor.json
+msgid "pair of superalloy sabatons"
+msgid_plural "pairs of superalloy sabatons"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of superalloy sabatons', 'str_pl': 'pairs
+#. of superalloy sabatons'}
+#: ./items/armor.json
+msgid ""
+"A Swedish power me- no, a component of medieval plate armor, covering the "
+"feet.  Made using lightweight superalloy.  Can be worn over other boots."
+msgstr ""
+
+#: ./items/armor.json
+msgid "pair of armored demi-gauntlets"
+msgid_plural "pairs of armored demi-gauntlets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of armored demi-gauntlets', 'str_pl':
+#. 'pairs of armored demi-gauntlets'}
+#: ./items/armor.json
+msgid ""
+"A robust set of fingerless armor-plated gloves, offering less coverage in "
+"exchange for solid construction and greater dexterity."
+msgstr ""
+
+#: ./items/armor.json
+msgid "pair of superalloy armored demi-gauntlets"
+msgid_plural "pairs of superalloy armored demi-gauntlets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'pair of superalloy armored demi-gauntlets',
+#. 'str_pl': 'pairs of superalloy armored demi-gauntlets'}
+#: ./items/armor.json
+msgid ""
+"A robust set of fingerless superalloy-plated gloves, offering less coverage "
+"in exchange for solid construction and greater dexterity."
+msgstr ""
+
+#: ./items/armor.json
+msgid "close helmet"
+msgid_plural "close helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action transform.menu_text for {'str': 'close helmet'}.
+#. ~ Use action transform.menu_text for {'str': 'superalloy close helmet'}.
+#: ./items/armor.json
+msgid "Raise"
+msgstr ""
+
+#. ~ Use action transform.msg for {'str': 'close helmet'}.
+#. ~ Use action transform.msg for {'str': 'superalloy close helmet'}.
+#: ./items/armor.json
+msgid "You lift the visor of your helmet."
+msgstr ""
+
+#. ~ Description for {'str': 'close helmet'}
+#: ./items/armor.json
+msgid ""
+"A late medieval helmet that completely encloses the head, with a visor and "
+"bevor that can be lifted up.  Activate it to lift the visor, exposing your "
+"face."
+msgstr ""
+
+#: ./items/armor.json
+msgid "close helmet (raised)"
+msgid_plural "close helmets (raised)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Use action transform.menu_text for {'str': 'close helmet (raised)',
+#. 'str_pl': 'close helmets (raised)'}.
+#. ~ Use action transform.menu_text for {'str': 'superalloy close helmet
+#. (raised)', 'str_pl': 'superalloy close helmets (raised)'}.
+#: ./items/armor.json
+msgid "Lower"
+msgstr ""
+
+#. ~ Use action transform.msg for {'str': 'close helmet (raised)', 'str_pl':
+#. 'close helmets (raised)'}.
+#. ~ Use action transform.msg for {'str': 'superalloy close helmet (raised)',
+#. 'str_pl': 'superalloy close helmets (raised)'}.
+#: ./items/armor.json
+msgid "You lower the visor of your helmet back down over your face."
+msgstr ""
+
+#. ~ Description for {'str': 'close helmet (raised)', 'str_pl': 'close helmets
+#. (raised)'}
+#: ./items/armor.json
+msgid ""
+"A late medieval helmet that completely encloses the head, with a visor and "
+"bevor that has currently been lifted up.  Activate it to lower the visor "
+"back down to cover the face."
+msgstr ""
+
+#: ./items/armor.json
+msgid "superalloy close helmet"
+msgid_plural "superalloy close helmets"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superalloy close helmet'}
+#: ./items/armor.json
+msgid ""
+"A late medieval helmet that completely encloses the head, with a visor and "
+"bevor that can be lifted up.  Remade in modern superalloy for lighter "
+"weight.  Activate it to lift the visor, exposing your face."
+msgstr ""
+
+#: ./items/armor.json
+msgid "superalloy close helmet (raised)"
+msgid_plural "superalloy close helmets (raised)"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superalloy close helmet (raised)', 'str_pl':
+#. 'superalloy close helmets (raised)'}
+#: ./items/armor.json
+msgid ""
+"A late medieval helmet that completely encloses the head, with a visor and "
+"bevor that has currently been lifted up.  Remade in modern superalloy for "
+"lighter weight.  Activate it to lower the visor back down to cover the face."
+msgstr ""
+
+#: ./items/armor.json
+msgid "kettle hat"
+msgid_plural "kettle hats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'kettle hat'}
+#: ./items/armor.json
+msgid ""
+"An medieval helmet resembling a broad-brimmed hat.  Reasonably easy to "
+"produce and affordable to most medieval soldiers at the time."
+msgstr ""
+
+#: ./items/armor.json
+msgid "superalloy kettle hat"
+msgid_plural "superalloy kettle hats"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'superalloy kettle hat'}
+#: ./items/armor.json
+msgid ""
+"An medieval helmet resembling a broad-brimmed hat, remade in modern "
+"superalloy.  Still easy to produce if one can find the material."
+msgstr ""
+
+#. ~ GUN 'fire_lance': valid_mod_locations
+#. ~ GUN 'fire_lance_crude': valid_mod_locations
+#: ./items/ranged.json
+msgid "sling"
+msgstr ""
+
+#: ./items/ranged.json
+msgid "fire lance"
+msgid_plural "fire lances"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items/ranged.json
+msgid ""
+"A steel spear with a small tube attached, to hold an incendiary charge of "
+"gunpowder.  While it has an extremely short range, it gives a powerful edge "
+"in close combat."
+msgstr ""
+
+#: ./items/ranged.json
+msgctxt "gun_type_type"
+msgid "shotgun"
+msgstr ""
+
+#: ./items/ranged.json
+msgid "makeshift fire lance"
+msgid_plural "makeshift fire lances"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ./items/ranged.json
+msgid ""
+"Little more than a small tube capable of holding a charge of gunpowder, "
+"secured to a stick.  While it has an extremely short range, it gives a "
+"powerful edge in close combat."
+msgstr ""
+
+#: ./items/tools.json
+msgid "Dusk"
+msgid_plural "Dusk"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str_sp': 'Dusk'}
+#: ./items/tools.json
+msgid ""
+"A longsword, made out of a very dark, almost black metal.  It seems to hold "
+"a greater edge than usual steel blades and feels …more comfortable in the "
+"hand.  While the blade is made out of this dark metal, the crossguard and "
+"the pommel seem to be made out of a brighter material, which feels "
+"abnormally cool to the touch."
+msgstr ""
+
+#: ./items/tools.json
+msgid "gladius"
+msgid_plural "gladii"
+msgstr[0] ""
+msgstr[1] ""
+
+#. ~ Description for {'str': 'gladius', 'str_pl': 'gladii'}
+#: ./items/tools.json
+msgid ""
+"A thrusting sword adopted by Ancient Rome during the conquest of the Iberian"
+" Peninsula, the \"gladius hispaniensis\" supplanted the hasta as the most "
+"common weapon of the Roman Legions, until the shift towards the longer "
+"spatha during the later days of the Empire."
+msgstr ""
