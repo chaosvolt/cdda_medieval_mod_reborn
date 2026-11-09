@@ -34,7 +34,7 @@
     "type": "profession",
     "ident": "hoplite",
     "name": "Hoplite",
-    "description": "Heavy infantry of the ancient Greek city-states, before the shift towards the Macedonean phalanx.  Well-trained for combat in formation, but less effective when outmaneuvered or on broken ground.",
+    "description": "Heavy infantry of the ancient Greek city-states, before the shift towards the Macedonian phalanx.  Well-trained for combat in formation, but less effective when outmaneuvered or on broken ground.",
     "points": 5,
     "starting_cash": 0,
     "skills": [
@@ -279,7 +279,7 @@
     "type": "profession",
     "ident": "karoliner",
     "name": "Carolean",
-    "description": "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units included musketeers in addition to cavalry, pikemen, and grendadiers.",
+    "description": "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units included musketeers in addition to cavalry, pikemen, and grenadiers.",
     "points": 4,
     "starting_cash": 0,
     "skills": [
@@ -323,7 +323,7 @@
     "type": "profession",
     "ident": "husaria",
     "name": "Winged Hussar",
-    "description": "Heavy cavalry associated with the Polish-Lithanian Commonwealth during the 16th to 18th centuries.  Known for their ornate armor including decorative wings, making any arrival a fashionable one.",
+    "description": "Heavy cavalry associated with the Polish-Lithuanian Commonwealth during the 16th to 18th centuries.  Known for their ornate armor including decorative wings, making any arrival a fashionable one.",
     "points": 6,
     "starting_cash": 0,
     "skills": [
