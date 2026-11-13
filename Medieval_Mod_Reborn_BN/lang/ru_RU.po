@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Unknown Mod\n"
-"POT-Creation-Date: 2026-10-08 14:32+0300\n"
+"POT-Creation-Date: 2026-11-13 18:59+0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: midgardormr <midgardormr@gmail.com>\n"
 "Language-Team: \n"
@@ -106,10 +106,15 @@ msgstr "Гоплит"
 
 #. ~ Profession (male Hoplite) description
 #: chargen/professions.json
+#| msgctxt "prof_desc_male"
+#| msgid ""
+#| "Heavy infantry of the ancient Greek city-states, before the shift towards "
+#| "the Macedonean phalanx.  Well-trained for combat in formation, but less "
+#| "effective when outmaneuvered or on broken ground."
 msgctxt "prof_desc_male"
 msgid ""
 "Heavy infantry of the ancient Greek city-states, before the shift towards "
-"the Macedonean phalanx.  Well-trained for combat in formation, but less "
+"the Macedonian phalanx.  Well-trained for combat in formation, but less "
 "effective when outmaneuvered or on broken ground."
 msgstr ""
 "Ты служил в тяжёлой пехоте одного из древнегреческих полисов, ещё до "
@@ -119,10 +124,15 @@ msgstr ""
 
 #. ~ Profession (female Hoplite) description
 #: chargen/professions.json
+#| msgctxt "prof_desc_female"
+#| msgid ""
+#| "Heavy infantry of the ancient Greek city-states, before the shift towards "
+#| "the Macedonean phalanx.  Well-trained for combat in formation, but less "
+#| "effective when outmaneuvered or on broken ground."
 msgctxt "prof_desc_female"
 msgid ""
 "Heavy infantry of the ancient Greek city-states, before the shift towards "
-"the Macedonean phalanx.  Well-trained for combat in formation, but less "
+"the Macedonian phalanx.  Well-trained for combat in formation, but less "
 "effective when outmaneuvered or on broken ground."
 msgstr ""
 "Ты служила в тяжёлой пехоте одного из древнегреческих полисов, ещё до "
@@ -308,20 +318,28 @@ msgstr "Каролинер"
 
 #. ~ Profession (male Carolean) description
 #: chargen/professions.json
+#| msgctxt "prof_desc_male"
+#| msgid ""
+#| "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
+#| "included musketeers in addition to cavalry, pikemen, and grendadiers."
 msgctxt "prof_desc_male"
 msgid ""
 "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
-"included musketeers in addition to cavalry, pikemen, and grendadiers."
+"included musketeers in addition to cavalry, pikemen, and grenadiers."
 msgstr ""
 "Ты служил в армии Шведской империи во времена правления короля Карла XII. В "
 "её рядах сражались мушкетёры, кавалеристы, пикинёры и гренадёры."
 
 #. ~ Profession (female Carolean) description
 #: chargen/professions.json
+#| msgctxt "prof_desc_female"
+#| msgid ""
+#| "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
+#| "included musketeers in addition to cavalry, pikemen, and grendadiers."
 msgctxt "prof_desc_female"
 msgid ""
 "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
-"included musketeers in addition to cavalry, pikemen, and grendadiers."
+"included musketeers in addition to cavalry, pikemen, and grenadiers."
 msgstr ""
 "Ты служила в армии Шведской империи во времена правления короля Карла XII. В"
 " её рядах сражались мушкетёры, кавалеристы, пикинёры и гренадёры."
@@ -338,9 +356,14 @@ msgstr "Крылатый гусар"
 
 #. ~ Profession (male Winged Hussar) description
 #: chargen/professions.json
+#| msgctxt "prof_desc_male"
+#| msgid ""
+#| "Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+#| "16th to 18th centuries.  Known for their ornate armor including decorative "
+#| "wings, making any arrival a fashionable one."
 msgctxt "prof_desc_male"
 msgid ""
-"Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+"Heavy cavalry associated with the Polish-Lithuanian Commonwealth during the "
 "16th to 18th centuries.  Known for their ornate armor including decorative "
 "wings, making any arrival a fashionable one."
 msgstr ""
@@ -351,9 +374,14 @@ msgstr ""
 
 #. ~ Profession (female Winged Hussar) description
 #: chargen/professions.json
+#| msgctxt "prof_desc_female"
+#| msgid ""
+#| "Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+#| "16th to 18th centuries.  Known for their ornate armor including decorative "
+#| "wings, making any arrival a fashionable one."
 msgctxt "prof_desc_female"
 msgid ""
-"Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+"Heavy cavalry associated with the Polish-Lithuanian Commonwealth during the "
 "16th to 18th centuries.  Known for their ornate armor including decorative "
 "wings, making any arrival a fashionable one."
 msgstr ""
@@ -432,8 +460,11 @@ msgstr "Самурайская выучка"
 
 #. ~ Description for {'str': 'Samurai'}
 #: chargen/traits.json
+#| msgid ""
+#| "You have been trained since a young age in the warfare of fuedal Japan.  You"
+#| " start with your choice of Niten Ichi-Ryu or Sōjutsu."
 msgid ""
-"You have been trained since a young age in the warfare of fuedal Japan.  You"
+"You have been trained since a young age in the warfare of feudal Japan.  You"
 " start with your choice of Niten Ichi-Ryu or Sōjutsu."
 msgstr ""
 "С раннего детства тебя обучали военному искусству феодальной Японии. На "
@@ -458,9 +489,13 @@ msgstr "Рыцарская выучка"
 
 #. ~ Description for {'str': 'Chevalier'}
 #: chargen/traits.json
+#| msgid ""
+#| "You have been trained since a young age in the ways of late medieval "
+#| "warfare.  You start with your choice of Fior De Battalgia or Medieval "
+#| "Swordsmanship."
 msgid ""
 "You have been trained since a young age in the ways of late medieval "
-"warfare.  You start with your choice of Fior De Battalgia or Medieval "
+"warfare.  You start with your choice of Fior De Battaglia or Medieval "
 "Swordsmanship."
 msgstr ""
 "С раннего детства тебя обучали военному искусству позднего Средневековья. На"
@@ -667,14 +702,14 @@ msgstr[0] "закрытый шлем"
 msgstr[1] "закрытых шлема"
 msgstr[2] "закрытых шлемов"
 
-#. ~ Use action menu_text for {'str': 'close helmet'}.
-#. ~ Use action menu_text for {'str': 'superalloy close helmet'}.
+#. ~ Use action transform.menu_text for {'str': 'close helmet'}.
+#. ~ Use action transform.menu_text for {'str': 'superalloy close helmet'}.
 #: items/armor.json
 msgid "Raise"
 msgstr "Поднять"
 
-#. ~ Use action msg for {'str': 'close helmet'}.
-#. ~ Use action msg for {'str': 'superalloy close helmet'}.
+#. ~ Use action transform.msg for {'str': 'close helmet'}.
+#. ~ Use action transform.msg for {'str': 'superalloy close helmet'}.
 #: items/armor.json
 msgid "You lift the visor of your helmet."
 msgstr "Вы поднимаете забрало шлема."
@@ -697,18 +732,18 @@ msgstr[0] "закрытый шлем (забрало поднято)"
 msgstr[1] "закрытых шлема (забрало поднято)"
 msgstr[2] "закрытых шлемов (забрало поднято)"
 
-#. ~ Use action menu_text for {'str': 'close helmet (raised)', 'str_pl':
-#. 'close helmets (raised)'}.
-#. ~ Use action menu_text for {'str': 'superalloy close helmet (raised)',
-#. 'str_pl': 'superalloy close helmets (raised)'}.
+#. ~ Use action transform.menu_text for {'str': 'close helmet (raised)',
+#. 'str_pl': 'close helmets (raised)'}.
+#. ~ Use action transform.menu_text for {'str': 'superalloy close helmet
+#. (raised)', 'str_pl': 'superalloy close helmets (raised)'}.
 #: items/armor.json
 msgid "Lower"
 msgstr "Опустить"
 
-#. ~ Use action msg for {'str': 'close helmet (raised)', 'str_pl': 'close
-#. helmets (raised)'}.
-#. ~ Use action msg for {'str': 'superalloy close helmet (raised)', 'str_pl':
-#. 'superalloy close helmets (raised)'}.
+#. ~ Use action transform.msg for {'str': 'close helmet (raised)', 'str_pl':
+#. 'close helmets (raised)'}.
+#. ~ Use action transform.msg for {'str': 'superalloy close helmet (raised)',
+#. 'str_pl': 'superalloy close helmets (raised)'}.
 #: items/armor.json
 msgid "You lower the visor of your helmet back down over your face."
 msgstr "Вы опускаете забрало шлема, снова закрывая лицо."
@@ -773,8 +808,11 @@ msgstr[2] "шапелей"
 
 #. ~ Description for {'str': 'kettle hat'}
 #: items/armor.json
+#| msgid ""
+#| "An medieval helmet resembling a broad-brimmed hat.  Reasonably easy to "
+#| "produce and affordable to most medieval soldiers at the time."
 msgid ""
-"An medieval helmet resembling a broad-brimmed hat.  Reasonably easy to "
+"A medieval helmet resembling a broad-brimmed hat.  Reasonably easy to "
 "produce and affordable to most medieval soldiers at the time."
 msgstr ""
 "Средневековый шлем, напоминающий широкополую шляпу. Был сравнительно прост в"
@@ -789,13 +827,22 @@ msgstr[2] "шапелей из суперсплава"
 
 #. ~ Description for {'str': 'superalloy kettle hat'}
 #: items/armor.json
+#| msgid ""
+#| "An medieval helmet resembling a broad-brimmed hat, remade in modern "
+#| "superalloy.  Still easy to produce if one can find the material."
 msgid ""
-"An medieval helmet resembling a broad-brimmed hat, remade in modern "
+"A medieval helmet resembling a broad-brimmed hat, remade in modern "
 "superalloy.  Still easy to produce if one can find the material."
 msgstr ""
 "Средневековый шлем, напоминающий широкополую шляпу, но изготовленный из "
 "современного суперсплава. По-прежнему прост в изготовлении, если удастся "
 "раздобыть нужный материал."
+
+#. ~ GUN 'fire_lance': valid_mod_locations
+#. ~ GUN 'fire_lance_crude': valid_mod_locations
+#: items/ranged.json
+msgid "sling"
+msgstr "ремень"
 
 #: items/ranged.json
 msgid "fire lance"

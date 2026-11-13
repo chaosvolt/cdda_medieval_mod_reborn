@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Unknown Mod\n"
-"POT-Creation-Date: 2026-10-28 21:54+0300\n"
+"POT-Creation-Date: 2026-11-13 18:54+0300\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -89,7 +89,7 @@ msgstr ""
 msgctxt "prof_desc_male"
 msgid ""
 "Heavy infantry of the ancient Greek city-states, before the shift towards "
-"the Macedonean phalanx.  Well-trained for combat in formation, but less "
+"the Macedonian phalanx.  Well-trained for combat in formation, but less "
 "effective when outmaneuvered or on broken ground."
 msgstr ""
 
@@ -98,7 +98,7 @@ msgstr ""
 msgctxt "prof_desc_female"
 msgid ""
 "Heavy infantry of the ancient Greek city-states, before the shift towards "
-"the Macedonean phalanx.  Well-trained for combat in formation, but less "
+"the Macedonian phalanx.  Well-trained for combat in formation, but less "
 "effective when outmaneuvered or on broken ground."
 msgstr ""
 
@@ -251,7 +251,7 @@ msgstr ""
 msgctxt "prof_desc_male"
 msgid ""
 "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
-"included musketeers in addition to cavalry, pikemen, and grendadiers."
+"included musketeers in addition to cavalry, pikemen, and grenadiers."
 msgstr ""
 
 #. ~ Profession (female Carolean) description
@@ -259,7 +259,7 @@ msgstr ""
 msgctxt "prof_desc_female"
 msgid ""
 "Soldiers of the Swedish Empire during the reign of king Charles XII.  Units "
-"included musketeers in addition to cavalry, pikemen, and grendadiers."
+"included musketeers in addition to cavalry, pikemen, and grenadiers."
 msgstr ""
 
 #: ./chargen/professions.json
@@ -276,7 +276,7 @@ msgstr ""
 #: ./chargen/professions.json
 msgctxt "prof_desc_male"
 msgid ""
-"Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+"Heavy cavalry associated with the Polish-Lithuanian Commonwealth during the "
 "16th to 18th centuries.  Known for their ornate armor including decorative "
 "wings, making any arrival a fashionable one."
 msgstr ""
@@ -285,7 +285,7 @@ msgstr ""
 #: ./chargen/professions.json
 msgctxt "prof_desc_female"
 msgid ""
-"Heavy cavalry associated with the Polish-Lithanian Commonwealth during the "
+"Heavy cavalry associated with the Polish-Lithuanian Commonwealth during the "
 "16th to 18th centuries.  Known for their ornate armor including decorative "
 "wings, making any arrival a fashionable one."
 msgstr ""
@@ -349,7 +349,7 @@ msgstr ""
 #. ~ Description for {'str': 'Samurai'}
 #: ./chargen/traits.json
 msgid ""
-"You have been trained since a young age in the warfare of fuedal Japan.  You"
+"You have been trained since a young age in the warfare of feudal Japan.  You"
 " start with your choice of Niten Ichi-Ryu or Sōjutsu."
 msgstr ""
 
@@ -372,7 +372,7 @@ msgstr ""
 #: ./chargen/traits.json
 msgid ""
 "You have been trained since a young age in the ways of late medieval "
-"warfare.  You start with your choice of Fior De Battalgia or Medieval "
+"warfare.  You start with your choice of Fior De Battaglia or Medieval "
 "Swordsmanship."
 msgstr ""
 
@@ -622,7 +622,7 @@ msgstr[1] ""
 #. ~ Description for {'str': 'kettle hat'}
 #: ./items/armor.json
 msgid ""
-"An medieval helmet resembling a broad-brimmed hat.  Reasonably easy to "
+"A medieval helmet resembling a broad-brimmed hat.  Reasonably easy to "
 "produce and affordable to most medieval soldiers at the time."
 msgstr ""
 
@@ -635,7 +635,7 @@ msgstr[1] ""
 #. ~ Description for {'str': 'superalloy kettle hat'}
 #: ./items/armor.json
 msgid ""
-"An medieval helmet resembling a broad-brimmed hat, remade in modern "
+"A medieval helmet resembling a broad-brimmed hat, remade in modern "
 "superalloy.  Still easy to produce if one can find the material."
 msgstr ""
 
